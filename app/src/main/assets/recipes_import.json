@@ -1,0 +1,6082 @@
+{
+  "recipes": [
+    {
+      "name": "Bolo de Cenoura",
+      "category": "Bolos",
+      "description": "Receita classica da Bebel",
+      "preparationTimeMinutes": 45,
+      "notes": "Pode colocar cobertura de chocolate.",
+      "ingredients": [
+        {
+          "name": "Cenoura",
+          "measure": "3 unidades",
+          "observation": "picadas"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        }
+      ],
+      "steps": [
+        "Bata a cenoura, ovos e oleo no liquidificador.",
+        "Misture com os ingredientes secos.",
+        "Leve ao forno ate assar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo de Fuba (Paula)",
+      "category": "Bolos",
+      "description": "Receita manuscrita do caderno da Bebel.",
+      "preparationTimeMinutes": 0,
+      "notes": "Polvilhar por cima com acucar e canela antes de assar.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "4 unidades",
+          "observation": "Separar gemas e claras; bater as claras em neve."
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Fuba",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Leite",
+          "measure": "2 copos"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "2 colheres",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Azeite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Canela",
+          "measure": "a gosto",
+          "observation": "Para polvilhar."
+        }
+      ],
+      "steps": [
+        "Bata as gemas, o acucar e o azeite.",
+        "Misture os ingredientes secos e o leite.",
+        "Por ultimo, acrescente as claras em neve e o fermento.",
+        "Polvilhe por cima com acucar e canela.",
+        "Leve para assar em forno quente."
+      ],
+      "images": []
+    },
+    {
+      "name": "Biscoito Pirulito",
+      "category": "Biscoitos",
+      "description": "Biscoito manuscrito com calda de chocolate.",
+      "preparationTimeMinutes": 0,
+      "notes": "A receita do caderno orienta passar os biscoitos assados na calda e depois no acucar.",
+      "ingredients": [
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 1/2 xicaras"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Acucar",
+          "measure": "3/4 xicara"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 pitada"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 1/2 xicara",
+          "observation": "Para a calda."
+        },
+        {
+          "name": "Chocolate em po",
+          "measure": "4 colheres",
+          "observation": "Para a calda."
+        },
+        {
+          "name": "Agua",
+          "measure": "um pouco",
+          "observation": "Para a calda."
+        }
+      ],
+      "steps": [
+        "Misture a manteiga, o acucar, o sal e a farinha.",
+        "Faca biscoitinhos compridos, com uma ponta mais grossa.",
+        "Depois de assado, passe na calda.",
+        "Para a calda, leve ao fogo o acucar, o chocolate em po e um pouco de agua.",
+        "Mexa ate atingir ponto de calda para biscoito.",
+        "Passe os biscoitos no acucar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bijajica",
+      "category": "Biscoitos",
+      "description": "Receita curta manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Nome lido como Bijajica; conferir depois se o nome correto e outro.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "3 unidades",
+          "observation": "inteiros"
+        },
+        {
+          "name": "Acucar",
+          "measure": "6 colheres"
+        },
+        {
+          "name": "Polvilho azedo",
+          "measure": "3 pires"
+        },
+        {
+          "name": "Oleo",
+          "measure": "quanto baste",
+          "observation": "Para fritar."
+        }
+      ],
+      "steps": [
+        "Misture os ingredientes.",
+        "Frite em oleo quente."
+      ],
+      "images": []
+    },
+    {
+      "name": "Brigadeiro de Pudim com Laranja e Coco",
+      "category": "Sobremesas",
+      "description": "Receita impressa colada no caderno.",
+      "preparationTimeMinutes": 10,
+      "notes": "O tempo aproximado indicado no recorte e de 10 minutos no fogo; depois precisa esfriar antes de enrolar.",
+      "ingredients": [
+        {
+          "name": "Manteiga",
+          "measure": "1 colher de sopa rasa"
+        },
+        {
+          "name": "Leite condensado",
+          "measure": "2 latas"
+        },
+        {
+          "name": "Coco ralado",
+          "measure": "50 g"
+        },
+        {
+          "name": "Raspas de laranja",
+          "measure": "raspas de 1 laranja"
+        },
+        {
+          "name": "Suco de laranja",
+          "measure": "100 ml"
+        },
+        {
+          "name": "Clara",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Gema",
+          "measure": "9 unidades",
+          "observation": "peneiradas"
+        },
+        {
+          "name": "Essencia de baunilha",
+          "measure": "1 colher de cafe"
+        },
+        {
+          "name": "Suco de laranja",
+          "measure": "quanto baste",
+          "observation": "Para empanar."
+        },
+        {
+          "name": "Coco ralado queimado",
+          "measure": "100 g"
+        },
+        {
+          "name": "Canela em po",
+          "measure": "1/2 colher de cha",
+          "observation": "Misturar ao coco para empanar."
+        }
+      ],
+      "steps": [
+        "Numa panela fora do fogo, misture a manteiga com o leite condensado, o coco ralado, as raspas de laranja, o suco de laranja, as claras, as gemas peneiradas e a essencia de baunilha.",
+        "Leve ao fogo medio e mexa com colher de pau ate obter um creme espesso que desgrude do fundo da panela.",
+        "Retire do fogo, espalhe em um refratario untado com margarina e deixe esfriar.",
+        "Depois de frio, faca bolinhas com as maos untadas com manteiga.",
+        "Passe no suco de laranja e depois no coco ralado queimado misturado com canela.",
+        "Coloque em forminhas de papel e sirva."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolacha",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita simples.",
+      "preparationTimeMinutes": 0,
+      "notes": "A medida da farinha foi lida como 1/2 kg; conferir no caderno.",
+      "ingredients": [
+        {
+          "name": "Farinha de trigo",
+          "measure": "1/2 kg",
+          "observation": "Leitura aproximada."
+        },
+        {
+          "name": "Acucar",
+          "measure": "250 g"
+        },
+        {
+          "name": "Manteiga ou banha",
+          "measure": "125 g"
+        },
+        {
+          "name": "Ovo",
+          "measure": "4 unidades",
+          "observation": "batidos com acucar"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Polvilho",
+      "category": "Biscoitos",
+      "description": "Primeira versao manuscrita da bolacha de polvilho.",
+      "preparationTimeMinutes": 0,
+      "notes": "Algumas palavras foram sobrepostas no caderno; conferir sal amoniaco e polvilho.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Canela",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Leite",
+          "measure": "1/2 copo"
+        },
+        {
+          "name": "Manteiga ou banha",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "1 colher de sopa",
+          "observation": "Leitura aproximada."
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Polvilho",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolo Peludo",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Manteiga",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Agua fria",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Maizena",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher de sopa",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Pao",
+      "category": "Massas",
+      "description": "Receita manuscrita com medidas caseiras.",
+      "preparationTimeMinutes": 0,
+      "notes": "O caderno informa que a medida pode ser uma tigela ou um pote.",
+      "ingredients": [
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 medida"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 medida"
+        },
+        {
+          "name": "Polvilho",
+          "measure": "2 medidas"
+        },
+        {
+          "name": "Banha",
+          "measure": "1/2 medida"
+        },
+        {
+          "name": "Ovo",
+          "measure": "quanto baste"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolo de Areia",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Acucar",
+          "measure": "5 colheres"
+        },
+        {
+          "name": "Margarina",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Maizena",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher de sopa"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Rosquinha de Vinagre",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Vinagre",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher de cha"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 pitada"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1/2 colher"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Para dar ponto."
+        }
+      ],
+      "steps": [
+        "Misture os ingredientes.",
+        "Coloque farinha ate dar ponto.",
+        "Modele as rosquinhas e frite."
+      ],
+      "images": []
+    },
+    {
+      "name": "Brochas com Geleia",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita; nome lido como Brochas com geleia.",
+      "preparationTimeMinutes": 0,
+      "notes": "Conferir o nome da receita no caderno.",
+      "ingredients": [
+        {
+          "name": "Maizena",
+          "measure": "1 1/2 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 1/2 xicara"
+        },
+        {
+          "name": "Acucar",
+          "measure": "5 colheres"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Gema",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Leite",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Geleia",
+          "measure": "120 g"
+        }
+      ],
+      "steps": [
+        "Misture todos os ingredientes, menos a geleia.",
+        "Abra a massa.",
+        "Corte e coloque a geleia."
+      ],
+      "images": []
+    },
+    {
+      "name": "Biscoito de Coco",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita curta.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Biscoito de Coco.",
+      "ingredients": [
+        {
+          "name": "Araruta",
+          "measure": "1 quilo"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 medida",
+          "observation": "Medida nao totalmente clara no caderno."
+        },
+        {
+          "name": "Coco ralado",
+          "measure": "1 unidade"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "200 g"
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades",
+          "observation": "inteiros"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Polvilho 2",
+      "category": "Biscoitos",
+      "description": "Segunda versao manuscrita da bolacha de polvilho.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Polvilho azedo",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Banha ou margarina",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "2 colheres",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "1 colherinha"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "3 xicaras"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Biscoito de Limao",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "A quantidade de acucar foi lida como 4 xicaras, mas pode precisar de conferencia.",
+      "ingredients": [
+        {
+          "name": "Maizena",
+          "measure": "1 xicara de cha"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 1/2 xicara"
+        },
+        {
+          "name": "Acucar",
+          "measure": "4 xicaras",
+          "observation": "Leitura duvidosa."
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Ovo",
+          "measure": "1 unidade"
+        },
+        {
+          "name": "Suco de limao",
+          "measure": "1/4 xicara"
+        },
+        {
+          "name": "Casca de limao ralada",
+          "measure": "1 colher de sopa"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Biscoito de Leite",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "A linha da banha/acucar esta parcialmente ambigua no caderno.",
+      "ingredients": [
+        {
+          "name": "Leite",
+          "measure": "1 copo"
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "1 colher",
+          "observation": "Dissolver no leite."
+        },
+        {
+          "name": "Banha",
+          "measure": "1 pires",
+          "observation": "derretida"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 pires",
+          "observation": "Leitura aproximada."
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Ate dar ponto para amassar."
+        }
+      ],
+      "steps": [
+        "Dissolva o sal amoniaco no leite.",
+        "Misture os ingredientes.",
+        "Acrescente farinha de trigo ate dar ponto para amassar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Biscoito de Maizena",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Maizena",
+          "measure": "2 caixas pequenas"
+        },
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Banha",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Leite",
+          "measure": "um pouco"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Para amassar."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Massa para Coxinhas",
+      "category": "Salgados",
+      "description": "Receita manuscrita em vermelho.",
+      "preparationTimeMinutes": 0,
+      "notes": "Receita anotada na mesma pagina dos biscoitos.",
+      "ingredients": [
+        {
+          "name": "Leite",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Margarina",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Caldo Knorr",
+          "measure": "1 cubo"
+        },
+        {
+          "name": "Maizena",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 xicara"
+        }
+      ],
+      "steps": [
+        "Ferva o leite com o caldo e a margarina.",
+        "Misture a maizena e a farinha de trigo.",
+        "Mexa ate soltar do fundo."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Araruta",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Banha",
+          "measure": "1 pires",
+          "observation": "derretida"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Araruta",
+          "measure": "1/2 kg"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher de sopa",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "1 colher de cafe"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 pitada"
+        },
+        {
+          "name": "Acucar de baunilha",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Ate dar ponto."
+        }
+      ],
+      "steps": [
+        "Misture os ingredientes.",
+        "Acrescente farinha de trigo ate dar ponto."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolachinhas",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita curta.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Polvilho",
+          "measure": "2 pires"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 pires"
+        },
+        {
+          "name": "Acucar",
+          "measure": "4 pires"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "1/2 pires"
+        },
+        {
+          "name": "Ovo",
+          "measure": "quanto baste"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Doce de Leite de Cortar",
+      "category": "Sobremesas",
+      "description": "Receita impressa colada no caderno.",
+      "preparationTimeMinutes": 25,
+      "notes": "Depois de frio e firme, cortar e embrulhar em papel manteiga.",
+      "ingredients": [
+        {
+          "name": "Glucose de milho",
+          "measure": "2 colheres de sopa"
+        },
+        {
+          "name": "Agua",
+          "measure": "3 colheres de sopa"
+        },
+        {
+          "name": "Leite condensado",
+          "measure": "2 xicaras de cha"
+        },
+        {
+          "name": "Acucar cristal",
+          "measure": "2 xicaras de cha"
+        },
+        {
+          "name": "Essencia de baunilha",
+          "measure": "3 gotas"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "50 g"
+        }
+      ],
+      "steps": [
+        "Coloque o acucar e a agua em uma panela e cozinhe em fogo bem lento.",
+        "Mexa com colher de metal ate visualizar bem quando o acucar dissolver.",
+        "Acrescente a manteiga e a glucose e mexa com cuidado ate a manteiga dissolver.",
+        "Derrame o leite condensado, aumente o fogo e mexa com colher de pau ate ferver.",
+        "Ferva rapidamente, mexendo sempre, por 20 a 25 minutos.",
+        "Retire a panela do fogo e coloque numa superficie fria.",
+        "Acrescente a essencia de baunilha e bata com a colher de pau ate a mistura comecar a engrossar.",
+        "Derrame em uma assadeira untada e deixe esfriar.",
+        "Marque em quadrados com faca afiada.",
+        "Quando estiver completamente frio e firme, corte e embrulhe em papel manteiga."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Trigo",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita em folha avulsa.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Bolacha de Trigo. A quantidade de leite aparece como meia garrafa.",
+      "ingredients": [
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Banha",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Leite",
+          "measure": "meia garrafa"
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Ate dar ponto."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Polvilho 3",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita em folha avulsa.",
+      "preparationTimeMinutes": 0,
+      "notes": "Receita marcada como Bolacha de Polvilho; o caderno diz para amassar e assar.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "6 unidades"
+        },
+        {
+          "name": "Polvilho",
+          "measure": "6 xicaras"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "6 xicaras"
+        },
+        {
+          "name": "Banha",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Acucar",
+          "measure": "4 xicaras"
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        }
+      ],
+      "steps": [
+        "Amasse os ingredientes.",
+        "Asse."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bariguinho de Forno",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Bariguinho de Forno. Recheio sugerido: tomate, presunto, queijo e oregano.",
+      "ingredients": [
+        {
+          "name": "Fermento de pao",
+          "measure": "50 g"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 copo"
+        },
+        {
+          "name": "Margarina",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 kg"
+        },
+        {
+          "name": "Tomate",
+          "measure": "a gosto",
+          "observation": "Para rechear."
+        },
+        {
+          "name": "Presunto",
+          "measure": "a gosto",
+          "observation": "Para rechear."
+        },
+        {
+          "name": "Queijo",
+          "measure": "a gosto",
+          "observation": "Para rechear."
+        },
+        {
+          "name": "Oregano",
+          "measure": "a gosto",
+          "observation": "Para rechear."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Pae Madins",
+      "category": "Massas",
+      "description": "Receita manuscrita curta.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Pae Madins; conferir nome correto no caderno.",
+      "ingredients": [
+        {
+          "name": "Leite",
+          "measure": "1 copo"
+        },
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Azeite",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Acucar",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Fermento",
+          "measure": "a gosto"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Cobertura de Bolo",
+      "category": "Sobremesas",
+      "description": "Cobertura manuscrita para bolo.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Chocolate meio amargo",
+          "measure": "170 g"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "2 colheres"
+        }
+      ],
+      "steps": [
+        "Pique o chocolate ralado rapidamente em uma tigela.",
+        "Ferva agua em uma panela e adicione a manteiga.",
+        "Misture ate derreter.",
+        "Retire do fogo e deixe esfriar um pouco.",
+        "Bata com uma colher de pau ate dar ponto cremoso.",
+        "Despeje sobre o bolo frio."
+      ],
+      "images": []
+    },
+    {
+      "name": "Cobertura com Pudim",
+      "category": "Sobremesas",
+      "description": "Cobertura manuscrita feita com pudim e chocolate.",
+      "preparationTimeMinutes": 0,
+      "notes": "A receita parece orientar preparar pudim Royal com leite e misturar chocolate ao leite.",
+      "ingredients": [
+        {
+          "name": "Pudim Royal",
+          "measure": "1 pacote"
+        },
+        {
+          "name": "Leite",
+          "measure": "400 ml"
+        },
+        {
+          "name": "Chocolate ao leite",
+          "measure": "a gosto",
+          "observation": "picado"
+        }
+      ],
+      "steps": [
+        "Prepare o pudim Royal com 400 ml de leite.",
+        "Ainda quente, acrescente o chocolate ao leite picado.",
+        "Mexa ate formar um creme.",
+        "Depois de frio, misture o creme de leite.",
+        "Espalhe sobre o bolo e arrume em camadas."
+      ],
+      "images": []
+    },
+    {
+      "name": "Empadao",
+      "category": "Salgados",
+      "description": "Receita manuscrita de empadao.",
+      "preparationTimeMinutes": 0,
+      "notes": "Recheio sugerido no caderno: peito de frango, molho branco, requeijao, creme de leite, azeitona, milho, cebola, palha e cheiro verde.",
+      "ingredients": [
+        {
+          "name": "Peito de frango",
+          "measure": "1 peito",
+          "observation": "fatiado ou desfiado"
+        },
+        {
+          "name": "Requeijao",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Creme de leite",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Azeitona",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Milho",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Cebola",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Batata palha",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Cheiro verde",
+          "measure": "a gosto"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Sonho Pre-Assado",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Modo de preparo manuscrito parcialmente lido: bater acucar, leite, trigo, margarina e sal; deixar crescer ate encher; crescer novamente antes de assar em forno medio.",
+      "ingredients": [
+        {
+          "name": "Acucar",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 1/2 xicara"
+        },
+        {
+          "name": "Ovo",
+          "measure": "1 unidade"
+        },
+        {
+          "name": "Sal",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Fermento",
+          "measure": "1 tablete"
+        },
+        {
+          "name": "Leite em po",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Agua",
+          "measure": "5 colheres"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 colher"
+        }
+      ],
+      "steps": [
+        "Bata o acucar, o leite, o trigo, a margarina e o sal.",
+        "Deixe crescer ate encher.",
+        "Sove novamente e deixe crescer outra vez.",
+        "Leve ao forno medio."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo Pao de Queijo",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 30,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Leite",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Oleo",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Polvilho doce",
+          "measure": "250 g"
+        },
+        {
+          "name": "Queijo parmesao",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 pitada"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [
+        "Coloque em uma forma.",
+        "Leve para assar por 20 a 30 minutos."
+      ],
+      "images": []
+    },
+    {
+      "name": "Gota de Maca",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 30,
+      "notes": "Nome lido como Gota de Maca; conferir nome correto.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Leite ou banha",
+          "measure": "1 colher",
+          "observation": "Leitura duvidosa."
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 1/2 xicara"
+        },
+        {
+          "name": "Maizena",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Maca",
+          "measure": "2 unidades",
+          "observation": "picadas"
+        },
+        {
+          "name": "Canela",
+          "measure": "a gosto"
+        }
+      ],
+      "steps": [
+        "Misture tudo.",
+        "Com uma colher, espalhe na forma.",
+        "Peneire acucar e canela por cima.",
+        "Asse em forno medio por 20 a 30 minutos."
+      ],
+      "images": []
+    },
+    {
+      "name": "Sequilhos",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "O caderno orienta fazer roscas fininhas para ficarem torradinhas.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Azeite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Banha derretida",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Ate dar para amassar."
+        }
+      ],
+      "steps": [
+        "Misture os ingredientes.",
+        "Acrescente farinha de trigo ate dar para amassar.",
+        "Faca roscas fininhas para ficarem torradinhas."
+      ],
+      "images": []
+    },
+    {
+      "name": "Rosquinhas de Fuba",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 1/2 copo"
+        },
+        {
+          "name": "Fuba",
+          "measure": "1 copo"
+        },
+        {
+          "name": "Acucar",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "1 colher",
+          "observation": "Dissolvido no leite."
+        },
+        {
+          "name": "Banha",
+          "measure": "3 colheres"
+        },
+        {
+          "name": "Leite ou agua morna",
+          "measure": "quanto baste",
+          "observation": "Para amassar."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Aneis de Dama",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita; continua em outra pagina.",
+      "preparationTimeMinutes": 0,
+      "notes": "Receita juntada a partir de duas imagens consecutivas.",
+      "ingredients": [
+        {
+          "name": "Maizena",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 pitada"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1/2 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Aguardente",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Raspa de limao",
+          "measure": "1 colher"
+        }
+      ],
+      "steps": [
+        "Misture e amasse todos os ingredientes ate obter uma massa homogenea.",
+        "Faca rosquinhas pequenas.",
+        "Frite em oleo quente.",
+        "Polvilhe com acucar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolachas Pingadas",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "A receita informa que a massa nao deve ficar muito dura.",
+      "ingredients": [
+        {
+          "name": "Fermento em po ou sal amoniaco",
+          "measure": "1 colher",
+          "observation": "Royal ou sal amoniaco no caderno."
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Manteiga ou banha",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Massa nao deve ficar muito dura."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Araruta 2",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "A massa fica dura.",
+      "ingredients": [
+        {
+          "name": "Araruta ralada",
+          "measure": "1 coco",
+          "observation": "Leitura aproximada."
+        },
+        {
+          "name": "Araruta",
+          "measure": "1 kg"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1/2 kg"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "a gosto",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Gordura",
+          "measure": "250 g"
+        },
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Para amassar."
+        }
+      ],
+      "steps": [
+        "Amasse os ingredientes.",
+        "A massa fica dura."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pinga Mole",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Pinga Mole; recheio a gosto.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Leite",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Azeite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Queijo ralado",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Sal",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Acucar",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "2 colheres",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [
+        "Recheie a gosto."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Coco Marinari",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Bolacha de Coco Marinari.",
+      "ingredients": [
+        {
+          "name": "Banha",
+          "measure": "250 g"
+        },
+        {
+          "name": "Margarina",
+          "measure": "250 g"
+        },
+        {
+          "name": "Araruta",
+          "measure": "1 kg"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "250 g"
+        },
+        {
+          "name": "Acucar",
+          "measure": "500 g"
+        },
+        {
+          "name": "Ovo",
+          "measure": "1 unidade",
+          "observation": "batido"
+        },
+        {
+          "name": "Coco ralado",
+          "measure": "2 unidades"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Rosquinha Frita (Katia)",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Farinha de trigo",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Pizza Caseira",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Farinha de trigo",
+          "measure": "8 colheres"
+        },
+        {
+          "name": "Margarina",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Azeite",
+          "measure": "4 colheres"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 colher de sopa"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Leite",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades",
+          "observation": "inteiros"
+        }
+      ],
+      "steps": [
+        "Asse a massa.",
+        "Por ultimo, coloque o recheio.",
+        "Volte ao forno."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolinha de Polvilho Curtida",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Bolinha de Polvilho Curtida.",
+      "ingredients": [
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Azeite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Sal",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Polvilho azedo",
+          "measure": "quanto baste"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolo de Polvilho",
+      "category": "Bolos",
+      "description": "Receita manuscrita curta.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 copos"
+        },
+        {
+          "name": "Leite morno",
+          "measure": "2 copos"
+        },
+        {
+          "name": "Azeite",
+          "measure": "2 copos"
+        },
+        {
+          "name": "Queijo ralado",
+          "measure": "quanto baste"
+        },
+        {
+          "name": "Polvilho",
+          "measure": "quanto baste",
+          "observation": "Dar ponto."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolo de Coalhada",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Coalhada",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "3 colheres"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolo",
+      "category": "Bolos",
+      "description": "Receita manuscrita simples.",
+      "preparationTimeMinutes": 0,
+      "notes": "A receita orienta deixar a massa mais dura com um pouco de leite.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "1 unidade"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 1/2 xicara"
+        },
+        {
+          "name": "Margarina sem derreter",
+          "measure": "1 colher",
+          "observation": "Bater bem."
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "3 colheres",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [
+        "Deixe a massa ficar dura.",
+        "Acrescente um pouco de leite."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo de Cenoura 2",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Cobertura anotada na mesma pagina.",
+      "ingredients": [
+        {
+          "name": "Oleo",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Cenoura",
+          "measure": "3 unidades",
+          "observation": "grandes e cruas"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Nescau",
+          "measure": "4 colheres",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Leite",
+          "measure": "4 colheres",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 xicara",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 colher",
+          "observation": "Para cobertura."
+        }
+      ],
+      "steps": [
+        "Bata tudo no liquidificador.",
+        "Por ultimo, coloque a farinha e o fermento.",
+        "Asse em forno quente.",
+        "Para a cobertura, leve os ingredientes ao fogo e coloque sobre o bolo quente."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo de Fuba 2",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Azeite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Leite",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Fuba",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1/2 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [
+        "Asse em forno quente."
+      ],
+      "images": []
+    },
+    {
+      "name": "Nega Maluca",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "A linha da agua indica agua fervente.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Nescau",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Azeite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Agua fervente",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [
+        "Asse em forno quente."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo Formigueiro 2",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "4 xicaras"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Chocolate granulado",
+          "measure": "1 pacote"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1/2 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [
+        "Asse em forno quente."
+      ],
+      "images": []
+    },
+    {
+      "name": "Cuca 2",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 copo"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "4 xicaras"
+        },
+        {
+          "name": "Margarina",
+          "measure": "100 g"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1/2 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolo de Fuba Sao Joao",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Depois de assado, polvilhar com acucar e canela.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "6 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Margarina",
+          "measure": "300 g"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Fuba",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 pacote pequeno",
+          "observation": "Leitura duvidosa; anotado como pacote de acucar 100 g."
+        },
+        {
+          "name": "Leite de coco",
+          "measure": "1 vidro",
+          "observation": "200 ml"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Erva-doce",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "2 colheres",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Canela",
+          "measure": "a gosto",
+          "observation": "Para polvilhar."
+        }
+      ],
+      "steps": [
+        "Coloque em forma de pudim para assar.",
+        "Depois de assado, polvilhe com acucar e canela."
+      ],
+      "images": []
+    },
+    {
+      "name": "Recheio Manteigado",
+      "category": "Sobremesas",
+      "description": "Recheio manuscrito.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Manteiga",
+          "measure": "250 g"
+        },
+        {
+          "name": "Acucar",
+          "measure": "4 xicaras"
+        },
+        {
+          "name": "Gema",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Cafe",
+          "measure": "um pouco",
+          "observation": "A gosto."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Torta de Nescau",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Cobertura com creme de leite, manteiga, Nescau e acucar.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "5 unidades"
+        },
+        {
+          "name": "Nescau",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Agua fervente",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Coco ralado",
+          "measure": "a gosto",
+          "observation": "Para recheio."
+        },
+        {
+          "name": "Leite condensado",
+          "measure": "a gosto",
+          "observation": "Para recheio."
+        },
+        {
+          "name": "Creme de leite",
+          "measure": "1 lata",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Manteiga",
+          "measure": "1 pacote",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Nescau",
+          "measure": "2 xicaras",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 colheres",
+          "observation": "Para cobertura."
+        }
+      ],
+      "steps": [
+        "Bata a manteiga e o acucar.",
+        "Acrescente o creme de leite sem soro, o Nescau e bata.",
+        "Bata a massa e coloque no bolo.",
+        "Confeite com chocolate granulado."
+      ],
+      "images": []
+    },
+    {
+      "name": "Cuca de Banana",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "A receita informa 4 claras em neve.",
+      "ingredients": [
+        {
+          "name": "Clara",
+          "measure": "4 unidades",
+          "observation": "em neve"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Doce de leite",
+          "measure": "a gosto",
+          "observation": "Para camada depois de assado."
+        }
+      ],
+      "steps": [
+        "Depois de assada, coloque uma camada de doce de leite e a farofa por cima.",
+        "Volte ao forno para dourar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Cobertura de Bolo 2",
+      "category": "Sobremesas",
+      "description": "Cobertura manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Clara",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Acucar",
+          "measure": "3 xicaras"
+        }
+      ],
+      "steps": [
+        "Aqueça na panela sem deixar ferver.",
+        "Bata na batedeira."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pao de Lo",
+      "category": "Bolos",
+      "description": "Receita manuscrita simples.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Agua",
+          "measure": "12 colheres"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Ovos Moles",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Agua",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Gema",
+          "measure": "8 unidades"
+        },
+        {
+          "name": "Limao",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 copo"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 colher",
+          "observation": "Citada no modo de preparo."
+        }
+      ],
+      "steps": [
+        "Faca uma calda grossa com a agua e o acucar.",
+        "Espere esfriar.",
+        "Misture as gemas batidas com o limao, o leite e a margarina."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo Formigueiro 3",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Recheio com leite condensado e coco; cobertura com Nescau, leite, margarina e acucar.",
+      "ingredients": [
+        {
+          "name": "Margarina",
+          "measure": "200 g"
+        },
+        {
+          "name": "Chocolate granulado",
+          "measure": "100 g"
+        },
+        {
+          "name": "Coco",
+          "measure": "100 g"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Leite",
+          "measure": "4 colheres",
+          "observation": "Para recheio."
+        },
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata",
+          "observation": "Para recheio."
+        },
+        {
+          "name": "Coco",
+          "measure": "1 pacote",
+          "observation": "Para recheio."
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 colheres",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Nescau",
+          "measure": "2 colheres",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Leite",
+          "measure": "2 colheres",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Margarina",
+          "measure": "2 colheres",
+          "observation": "Para cobertura."
+        }
+      ],
+      "steps": [
+        "Leve tudo ao fogo.",
+        "Depois recheie.",
+        "Para a cobertura, leve ao fogo e coloque por cima do bolo."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo Embrulhado",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Rechear com leite condensado cozido e cortar em quadradinhos.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Suco de laranja",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Leite condensado cozido",
+          "measure": "a gosto",
+          "observation": "Para rechear."
+        },
+        {
+          "name": "Leite de coco",
+          "measure": "1 vidro",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Leite",
+          "measure": "1 lata",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Coco ralado",
+          "measure": "a gosto",
+          "observation": "Para finalizar."
+        }
+      ],
+      "steps": [
+        "Recheie com leite condensado cozido.",
+        "Corte em quadradinhos.",
+        "Passe os pedacos no creme da cobertura.",
+        "Passe no coco ralado.",
+        "Enrole em papel aluminio.",
+        "Leve a geladeira e espere gelar antes de comer."
+      ],
+      "images": []
+    },
+    {
+      "name": "Creme em Pedacos",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Cobertura feita com suco de laranja e acucar, preparada meia hora antes.",
+      "ingredients": [
+        {
+          "name": "Farinha de trigo",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Margarina",
+          "measure": "150 g"
+        },
+        {
+          "name": "Azeite",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1/2 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Raspas de laranja",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Suco de laranja",
+          "measure": "suco de 2 laranjas",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 xicara",
+          "observation": "Para cobertura."
+        }
+      ],
+      "steps": [
+        "Prepare a cobertura com suco de 2 laranjas e 1 xicara de acucar meia hora antes."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo de Fuba 3",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Fuba",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Maizena",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolo de Cenoura 3",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Nescau para cobrir.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Azeite",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Suco de laranja",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Margarina",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1/2 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Nescau",
+          "measure": "a gosto",
+          "observation": "Para cobrir."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Pao de Lo 2",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Clara",
+          "measure": "6 unidades",
+          "observation": "em neve"
+        },
+        {
+          "name": "Acucar",
+          "measure": "6 colheres"
+        },
+        {
+          "name": "Gema",
+          "measure": "6 unidades"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "6 colheres"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [
+        "Asse em forno quente."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo Santa Clara",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolo para Visita",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Maizena",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Manteiga",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Ovo",
+          "measure": "1 unidade"
+        }
+      ],
+      "steps": [
+        "Asse em forno quente."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo de Fuba com Leite de Coco",
+      "category": "Bolos",
+      "description": "Receita manuscrita continuada em duas paginas.",
+      "preparationTimeMinutes": 0,
+      "notes": "A cobertura deve ser colocada ainda quente.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "5 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Fuba",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Leite de coco",
+          "measure": "1 1/2 xicara"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher de sopa",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 1/2 xicara",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Leite de coco",
+          "measure": "1/2 xicara",
+          "observation": "Para cobertura."
+        }
+      ],
+      "steps": [
+        "Bata os ovos, o acucar e a margarina ate ficar cremoso.",
+        "Acrescente o fuba, a farinha de trigo, o leite de coco e o fermento.",
+        "Bata e coloque para assar.",
+        "Para a cobertura, misture o acucar com o leite de coco.",
+        "Cubra o bolo e leve ao forno para secar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Nega Maluca 2",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Cobertura anotada na mesma pagina.",
+      "ingredients": [
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 1/2 xicaras"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 1/2 xicara"
+        },
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Nescau",
+          "measure": "1 copo"
+        },
+        {
+          "name": "Oleo",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Agua fervente",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Margarina",
+          "measure": "2 colheres",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Acucar",
+          "measure": "5 colheres",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Leite",
+          "measure": "2 colheres",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Nescau",
+          "measure": "5 colheres",
+          "observation": "Para cobertura."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Cuca Simples de Banana",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "A farofa leva acucar, farinha de trigo, maizena e canela.",
+      "ingredients": [
+        {
+          "name": "Banana",
+          "measure": "8 unidades"
+        },
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 1/2 xicaras"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "4 xicaras"
+        },
+        {
+          "name": "Margarina",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Leite",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Canela",
+          "measure": "a gosto",
+          "observation": "Para a farofa."
+        }
+      ],
+      "steps": [
+        "Prepare uma farofa com acucar, farinha de trigo, maizena e canela.",
+        "Coloque as bananas.",
+        "Cubra com a farofa."
+      ],
+      "images": []
+    },
+    {
+      "name": "Cuca de Maca",
+      "category": "Bolos",
+      "description": "Receita manuscrita continuada em duas paginas.",
+      "preparationTimeMinutes": 0,
+      "notes": "Depois de assada, polvilhar mais acucar para que as macas fiquem macias.",
+      "ingredients": [
+        {
+          "name": "Acucar",
+          "measure": "1 1/2 xicara"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Leite",
+          "measure": "6 colheres"
+        },
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher de sopa",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Maca",
+          "measure": "a gosto",
+          "observation": "Cortadas bem fininhas."
+        },
+        {
+          "name": "Canela",
+          "measure": "a gosto"
+        }
+      ],
+      "steps": [
+        "Corte as macas bem fininhas.",
+        "Coloque em cima da cuca.",
+        "Polvilhe com acucar e canela.",
+        "Depois de assada, polvilhe mais um pouquinho de acucar para que as macas fiquem bem macias."
+      ],
+      "images": []
+    },
+    {
+      "name": "Rocambole de Nescau",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita de rocambole de chocolate.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Gema",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Nescau",
+          "measure": "1/2 xicara"
+        }
+      ],
+      "steps": [
+        "Bata as claras em neve.",
+        "Bata as gemas e o acucar na batedeira.",
+        "Acrescente o Nescau e a farinha de trigo.",
+        "Leve para assar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo de Leite Condensado",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 30,
+      "notes": "Desenformar depois de frio.",
+      "ingredients": [
+        {
+          "name": "Manteiga",
+          "measure": "1/2 xicara de cha",
+          "observation": "derretida"
+        },
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Leite condensado",
+          "measure": "1 caixa"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Leite",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [
+        "Numa batedeira, bata a manteiga ate ficar cremosa.",
+        "Junte as gemas uma a uma.",
+        "Acrescente 3/4 da caixa de leite condensado.",
+        "Misture a farinha, o fermento peneirado e as claras em neve.",
+        "Despeje a massa numa forma por cerca de 30 minutos.",
+        "Depois de assado, distribua por cima o restante do leite condensado misturado ao leite.",
+        "Desenforme depois de frio."
+      ],
+      "images": []
+    },
+    {
+      "name": "Biscoito Amanteigado",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Manteiga",
+          "measure": "250 g"
+        },
+        {
+          "name": "Acucar",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Baunilha",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 kg"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 1/2 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Raspa de limao",
+          "measure": "a gosto"
+        }
+      ],
+      "steps": [
+        "Bata a manteiga com o acucar ate ponto de nata.",
+        "Junte os outros ingredientes e a farinha de trigo ate a massa ficar consistente.",
+        "Corte em forma de circulos.",
+        "Asse em forno quente."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Fuba",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Fuba",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Araruta",
+          "measure": "4 xicaras"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Broinhas Deliciosas",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Polvilho doce",
+          "measure": "500 g"
+        },
+        {
+          "name": "Acucar",
+          "measure": "250 g"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "125 g"
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [
+        "Adicione o polvilho aos poucos.",
+        "Amasse bem, deixando a massa mais ou menos dura.",
+        "Faca as broinhas.",
+        "Coloque em forma untada.",
+        "Leve ao forno pre-aquecido."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Claras",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Clara",
+          "measure": "5 unidades",
+          "observation": "em neve"
+        },
+        {
+          "name": "Acucar",
+          "measure": "250 g"
+        },
+        {
+          "name": "Araruta",
+          "measure": "1/2 kg"
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Margarina",
+          "measure": "100 g"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Biscoitos 2",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Esperar esfriar antes de tirar da forma.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "2 unidades",
+          "observation": "inteiros"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Maizena",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Fuba",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Margarina",
+          "measure": "200 g"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 pitada"
+        },
+        {
+          "name": "Coco",
+          "measure": "1 pacote",
+          "observation": "100 g"
+        }
+      ],
+      "steps": [
+        "Espere esfriar antes de tirar da forma."
+      ],
+      "images": []
+    },
+    {
+      "name": "Dedinho",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "A receita menciona que pode usar canela e cravo.",
+      "ingredients": [
+        {
+          "name": "Azeite",
+          "measure": "7 colheres"
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Canela e cravo",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 1/2 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Ate dar para amassar."
+        }
+      ],
+      "steps": [
+        "Asse em forno quente."
+      ],
+      "images": []
+    },
+    {
+      "name": "Sequilhos 2",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "O caderno orienta cobrir com fios de acucar.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Azeite",
+          "measure": "15 colheres"
+        },
+        {
+          "name": "Acucar",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Leite",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "1/2 colher"
+        },
+        {
+          "name": "Sal e canela",
+          "measure": "1 pitada"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Ate dar ponto para amassar."
+        },
+        {
+          "name": "Acucar",
+          "measure": "a gosto",
+          "observation": "Para cobrir."
+        }
+      ],
+      "steps": [
+        "Acrescente farinha de trigo ate dar ponto para amassar.",
+        "Cubra com fios de acucar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bombe Dedo",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Bombe Dedo; conferir nome correto.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "8 colheres"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "3 colheres"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Ate dar ponto de fazer rosquinhas."
+        }
+      ],
+      "steps": [
+        "Acrescente farinha de trigo ate dar ponto de fazer rosquinhas.",
+        "Frite em oleo quente."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Coco Numero 1",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Polvilho azedo",
+          "measure": "1 kg"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1/2 kg"
+        },
+        {
+          "name": "Margarina",
+          "measure": "200 g"
+        },
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Coco ralado",
+          "measure": "1 unidade"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Ate dar ponto."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Coco Numero 2",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Coco ralado",
+          "measure": "1 unidade"
+        },
+        {
+          "name": "Araruta",
+          "measure": "1 kg"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1/2 kg"
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "250 g"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 1/2 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolacha das Freiras",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Bolacha das Freiras.",
+      "ingredients": [
+        {
+          "name": "Araruta",
+          "measure": "1/2 kg"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1/2 kg"
+        },
+        {
+          "name": "Ovo",
+          "measure": "6 unidades"
+        },
+        {
+          "name": "Margarina",
+          "measure": "200 g"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 1/2 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Para amassar."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Araruta 3",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "A receita tambem menciona coco.",
+      "ingredients": [
+        {
+          "name": "Araruta",
+          "measure": "1/2 kg"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "250 g"
+        },
+        {
+          "name": "Acucar",
+          "measure": "250 g"
+        },
+        {
+          "name": "Banha",
+          "measure": "250 g"
+        },
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Coco",
+          "measure": "a gosto"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Limao",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Manteiga",
+          "measure": "200 g"
+        },
+        {
+          "name": "Acucar",
+          "measure": "400 g"
+        },
+        {
+          "name": "Ovo",
+          "measure": "6 unidades"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 kg"
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Raspa de limao",
+          "measure": "raspa de 1 limao"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Flor do Campo",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Farinha de trigo",
+          "measure": "10 colheres"
+        },
+        {
+          "name": "Acucar",
+          "measure": "4 colheres"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "4 colheres"
+        },
+        {
+          "name": "Gema",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "2 colheres",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolacha sem Ovo",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Leite",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Banha",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 colherinha"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Maizena 2",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Manteiga",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Araruta",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Raspa de limao",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "2 colheres",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "5 xicaras"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Pao de Minuto",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "4 colheres"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "4 xicaras"
+        },
+        {
+          "name": "Margarina",
+          "measure": "4 colheres"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        }
+      ],
+      "steps": [
+        "Asse em forno quente."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Fuba 2",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita; nome anotado como Bolacha de Fuba (rico).",
+      "preparationTimeMinutes": 0,
+      "notes": "A receita pede farinha de trigo ate dar ponto.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Banha",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Azeite",
+          "measure": "um pouco"
+        },
+        {
+          "name": "Fuba",
+          "measure": "4 xicaras"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Acucar",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 pitada"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "quanto baste",
+          "observation": "Ate dar ponto."
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Doce de Nega",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Doce de Nega.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Banha ou margarina",
+          "measure": "3 colheres"
+        },
+        {
+          "name": "Acucar",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Nescau",
+          "measure": "3 colheres"
+        },
+        {
+          "name": "Leite",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "3 colheres"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Acucar",
+          "measure": "4 xicaras",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Nescau",
+          "measure": "6 colheres",
+          "observation": "Para cobertura."
+        },
+        {
+          "name": "Agua",
+          "measure": "1 xicara",
+          "observation": "Para cobertura."
+        }
+      ],
+      "steps": [
+        "Frite ate dar ponto de enrolar.",
+        "Passe na cobertura."
+      ],
+      "images": []
+    },
+    {
+      "name": "Sequilhos 3",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Continua com sal, Royal e sal amoniaco na imagem seguinte.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Margarina",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Banha",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Leite",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher",
+          "observation": "Royal no caderno."
+        },
+        {
+          "name": "Sal amoniaco",
+          "measure": "1 colher"
+        }
+      ],
+      "steps": [
+        "Amasse ate dar ponto."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Coco Moducci",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Bolacha de Coco Moducci.",
+      "ingredients": [
+        {
+          "name": "Banha",
+          "measure": "250 g"
+        },
+        {
+          "name": "Margarina",
+          "measure": "250 g"
+        },
+        {
+          "name": "Araruta",
+          "measure": "1 kg"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "250 g"
+        },
+        {
+          "name": "Acucar",
+          "measure": "500 g"
+        },
+        {
+          "name": "Ovo",
+          "measure": "1 unidade",
+          "observation": "batido"
+        },
+        {
+          "name": "Coco ralado",
+          "measure": "2 unidades"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Amanteigado de Leite Condensado",
+      "category": "Biscoitos",
+      "description": "Receita manuscrita continuada em duas imagens.",
+      "preparationTimeMinutes": 0,
+      "notes": "A receita orienta deixar a massa na geladeira por cerca de 1 hora ou ate ficar firme.",
+      "ingredients": [
+        {
+          "name": "Manteiga ambiente",
+          "measure": "150 g"
+        },
+        {
+          "name": "Gema",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Leite condensado",
+          "measure": "1 caixa"
+        },
+        {
+          "name": "Raspas de laranja",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 pitada"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 xicaras"
+        }
+      ],
+      "steps": [
+        "Bata a manteiga na batedeira ate ficar cremosa.",
+        "Junte as gemas e o leite condensado ate ficar um creme leve.",
+        "Retire da batedeira.",
+        "Junte as raspas, o sal e a farinha.",
+        "Trabalhe a massa.",
+        "Embrulhe em filme plastico e leve a geladeira por cerca de 1 hora ou ate ficar firme.",
+        "Faca bolinhas e amasse com um garfo.",
+        "Arrume na forma e leve para assar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pudim de Maizena Mole",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Pode usar suspiro ou bolacha doce.",
+      "ingredients": [
+        {
+          "name": "Maizena",
+          "measure": "2 caixas"
+        },
+        {
+          "name": "Agua morna",
+          "measure": "2 copos"
+        },
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Creme de leite",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Suspiro ou bolacha doce",
+          "measure": "a gosto"
+        }
+      ],
+      "steps": [
+        "Coloque a Maizena no liquidificador.",
+        "Adicione a agua morna por cima e bata.",
+        "Depois coloque o leite condensado e o creme de leite e bata.",
+        "Forre uma tigela a gosto no fundo com os suspiros.",
+        "Coloque o pudim.",
+        "Leve a geladeira, espere gelar, enfeite e sirva."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pudim de Leite Moca",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Leite",
+          "measure": "2 latas"
+        },
+        {
+          "name": "Ovo",
+          "measure": "3 unidades"
+        }
+      ],
+      "steps": [
+        "Coloque para cozinhar em banho-maria."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pudim de Leite",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita simples.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Leite",
+          "measure": "1 litro"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 copo"
+        },
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "2 colheres"
+        }
+      ],
+      "steps": [
+        "Bata no liquidificador."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pudim de Pao",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita continuada em duas imagens.",
+      "preparationTimeMinutes": 0,
+      "notes": "A imagem inicial mostra apenas parte dos ingredientes; modo de preparo continua na pagina seguinte.",
+      "ingredients": [
+        {
+          "name": "Pao",
+          "measure": "2 paes pequenos"
+        },
+        {
+          "name": "Agua",
+          "measure": "a gosto",
+          "observation": "Para molhar os paes."
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 copo"
+        },
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Canela",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 colher"
+        }
+      ],
+      "steps": [
+        "Coloque no liquidificador o pao molhado, o acucar, os ovos e a canela.",
+        "Bata bem.",
+        "Por ultimo, coloque a margarina.",
+        "Cozinhe em banho-maria."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pudim Leve de Laranja",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita continuada em duas imagens.",
+      "preparationTimeMinutes": 0,
+      "notes": "Colocar em forma caramelizada e cozinhar em banho-maria.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "4 unidades",
+          "observation": "inteiros"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Suco de laranja",
+          "measure": "1/2 xicara"
+        },
+        {
+          "name": "Raspa de laranja",
+          "measure": "1 colher"
+        }
+      ],
+      "steps": [
+        "Bata as gemas ate engrossarem e ficarem de cor bem clara.",
+        "Adicione o acucar aos poucos batendo sem parar.",
+        "Acrescente o suco.",
+        "Junte as claras em neve firme.",
+        "Coloque em uma forma caramelizada.",
+        "Cozinhe em banho-maria."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pudim de Pao Numero 2",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Pao",
+          "measure": "5 paes"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 litro"
+        },
+        {
+          "name": "Acucar",
+          "measure": "3 xicaras"
+        },
+        {
+          "name": "Ovo",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Canela",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Coco",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Acucar",
+          "measure": "a gosto"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Pudim de Coco e Laranja",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita continuada em duas imagens.",
+      "preparationTimeMinutes": 0,
+      "notes": "Possui calda de pudim anotada na sequencia.",
+      "ingredients": [
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Agua",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Coco ralado",
+          "measure": "1 pacote",
+          "observation": "100 g"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Ovo",
+          "measure": "6 unidades"
+        },
+        {
+          "name": "Caldo de laranja",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Agua",
+          "measure": "1/2 xicara",
+          "observation": "Para calda."
+        }
+      ],
+      "steps": [
+        "Faca uma calda grossa com o acucar e a agua.",
+        "Junte a margarina, retire do fogo e deixe esfriar.",
+        "Numa vasilha, misture a calda fria com o coco, a farinha, os ovos ligeiramente batidos e o caldo da laranja.",
+        "Despeje em forma caramelizada.",
+        "Cozinhe em banho-maria.",
+        "Para a calda, espalhe o acucar no fundo de uma panela grande e leve ao fogo brando, deixando derreter suavemente.",
+        "Quando estiver bem dourado, junte agua fervente e mexa.",
+        "Deixe ferver ate dissolver os torrões e forre a forma de pudim."
+      ],
+      "images": []
+    },
+    {
+      "name": "Cigana Maria",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita em camadas.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Cigana Maria. O creme usa leite condensado, leite de vaca, gemas, margarina e Maizena.",
+      "ingredients": [
+        {
+          "name": "Suspiro",
+          "measure": "1 pacote"
+        },
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Leite de vaca",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Maizena",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Flocao",
+          "measure": "1 pacote",
+          "observation": "Leitura aproximada."
+        },
+        {
+          "name": "Creme de leite",
+          "measure": "1 lata"
+        }
+      ],
+      "steps": [
+        "Faca um creme com o leite condensado, o leite de vaca, as gemas, a margarina e a Maizena.",
+        "Deixe esfriar.",
+        "Arrume em um pirex uma camada de suspiro, outra de creme e outra de flocao.",
+        "Cubra com creme de leite e claras em neve.",
+        "Leve a geladeira."
+      ],
+      "images": []
+    },
+    {
+      "name": "Chico Balanceado",
+      "category": "Sobremesas",
+      "description": "Sobremesa manuscrita com banana e creme.",
+      "preparationTimeMinutes": 0,
+      "notes": "O caderno orienta usar forma caramelizada e dourar no forno.",
+      "ingredients": [
+        {
+          "name": "Leite",
+          "measure": "1 litro"
+        },
+        {
+          "name": "Gema",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Maizena",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Banana",
+          "measure": "a gosto",
+          "observation": "fatiadas"
+        },
+        {
+          "name": "Clara",
+          "measure": "a gosto",
+          "observation": "em neve"
+        }
+      ],
+      "steps": [
+        "Bata as claras em neve.",
+        "Coloque 1 colher de acucar.",
+        "Coloque o creme em forma caramelizada.",
+        "Por cima, coloque as bananas fatiadas.",
+        "Por ultimo, coloque as claras em neve.",
+        "Leve ao forno para dourar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Flan de Morango",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Decorar com folhas de hortela.",
+      "ingredients": [
+        {
+          "name": "Morango",
+          "measure": "6 a 8 unidades"
+        },
+        {
+          "name": "Creme de leite",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Gelatina em po sem sabor",
+          "measure": "2 envelopes"
+        }
+      ],
+      "steps": [
+        "Bata a polpa dos morangos no liquidificador com 1 xicara de agua.",
+        "Passe o suco por uma peneira e retorne sem as sementes ao liquidificador.",
+        "Bata com o creme de leite, o leite condensado e a gelatina diluida conforme as instrucoes da embalagem e dissolvida em banho-maria.",
+        "Despeje o flan em uma forma para pudim.",
+        "Leve a geladeira por aproximadamente 4 horas.",
+        "Sirva desenformado e decorado com folhas de hortela."
+      ],
+      "images": []
+    },
+    {
+      "name": "Mousse de Chocolate",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "",
+      "ingredients": [
+        {
+          "name": "Gema",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "6 colheres"
+        },
+        {
+          "name": "Creme de leite",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Chocolate meio amargo",
+          "measure": "500 g"
+        },
+        {
+          "name": "Clara",
+          "measure": "4 unidades",
+          "observation": "em neve"
+        }
+      ],
+      "steps": [
+        "Bata as gemas com o acucar.",
+        "Aqueça o chocolate em banho-maria.",
+        "Misture o creme de leite e bata ate ficar cremoso.",
+        "Misture ao chocolate as gemas batidas aos poucos.",
+        "Por ultimo, misture delicadamente as claras em neve batidas com acucar.",
+        "Coloque em uma tigela ou taca e leve para gelar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Mousse de Maracuja",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "O creme de Maizena vai por cima da mistura batida.",
+      "ingredients": [
+        {
+          "name": "Leite condensado",
+          "measure": "2 latas"
+        },
+        {
+          "name": "Creme de leite",
+          "measure": "2 latas"
+        },
+        {
+          "name": "Suco de maracuja",
+          "measure": "1 vidro"
+        },
+        {
+          "name": "Maizena",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Acucar",
+          "measure": "a gosto"
+        }
+      ],
+      "steps": [
+        "Bata no liquidificador o leite condensado, o creme de leite e meia lata de suco de maracuja.",
+        "Faca um mingau com Maizena, suco de maracuja e acucar a gosto.",
+        "Coloque em uma tigela a mistura batida no liquidificador.",
+        "Por cima, coloque o creme de Maizena ja frio.",
+        "Deixe gelar e sirva."
+      ],
+      "images": []
+    },
+    {
+      "name": "Sobremesa de Gelatina",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "A gelatina deve ser colocada depois de gelada sobre o creme frio.",
+      "ingredients": [
+        {
+          "name": "Gelatina",
+          "measure": "1 caixa"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 litro"
+        },
+        {
+          "name": "Gema",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Maizena",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 xicara"
+        }
+      ],
+      "steps": [
+        "Faca um creme com a Maizena, o acucar, as gemas e o leite.",
+        "Derreta a gelatina e coloque para gelar em um pirex.",
+        "Coloque a gelatina depois de gelada com o creme frio.",
+        "Por cima, coloque as claras em neve.",
+        "Leve a geladeira."
+      ],
+      "images": []
+    },
+    {
+      "name": "Chantilly",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita curta.",
+      "preparationTimeMinutes": 0,
+      "notes": "A receita informa que, se preferir, pode fazer por nota; leitura literal preservada.",
+      "ingredients": [
+        {
+          "name": "Clara",
+          "measure": "4 unidades",
+          "observation": "em neve"
+        },
+        {
+          "name": "Acucar",
+          "measure": "8 colheres"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Sobremesa com Pessego ou Abacaxi",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita em camadas.",
+      "preparationTimeMinutes": 0,
+      "notes": "Pode usar uma lata de pessego ou abacaxi picado.",
+      "ingredients": [
+        {
+          "name": "Pessego ou abacaxi",
+          "measure": "1 lata",
+          "observation": "picados"
+        },
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 litro"
+        },
+        {
+          "name": "Gema",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Maizena",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Coco",
+          "measure": "1 pacote"
+        },
+        {
+          "name": "Leite",
+          "measure": "um pouco",
+          "observation": "Para molhar o coco."
+        },
+        {
+          "name": "Acucar",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Chantilly",
+          "measure": "a gosto"
+        }
+      ],
+      "steps": [
+        "Pique o pessego ou abacaxi e coloque no fundo do prato.",
+        "Faca o creme e coloque por cima.",
+        "Cozinhe o coco ao fogo com um pouco de leite e acucar.",
+        "Coloque por cima do creme.",
+        "Por ultimo, coloque o chantilly."
+      ],
+      "images": []
+    },
+    {
+      "name": "Sobremesa de Coco",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "O creme deve esfriar antes de receber o creme com coco.",
+      "ingredients": [
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 litro"
+        },
+        {
+          "name": "Gema",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Maizena",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Coco",
+          "measure": "250 g"
+        }
+      ],
+      "steps": [
+        "Faca o creme e deixe esfriar.",
+        "Faca um creme com o coco.",
+        "Coloque em um pirex o creme de leite condensado, o creme de coco e cubra com chantilly."
+      ],
+      "images": []
+    },
+    {
+      "name": "Quarto Centenario",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita parcialmente encoberta por recorte.",
+      "preparationTimeMinutes": 0,
+      "notes": "Parte da receita esta coberta na imagem; foram registrados apenas os ingredientes legiveis.",
+      "ingredients": [
+        {
+          "name": "Leite condensado",
+          "measure": "2 latas"
+        },
+        {
+          "name": "Flocao",
+          "measure": "1 pacote",
+          "observation": "Leitura aproximada."
+        },
+        {
+          "name": "Manteiga",
+          "measure": "1 colher",
+          "observation": "derretida"
+        },
+        {
+          "name": "Gema",
+          "measure": "6 unidades"
+        },
+        {
+          "name": "Leite de vaca",
+          "measure": "2 latas"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Sagu ao Creme",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Modo de preparo incompleto no caderno; creme registrado a partir dos ingredientes visiveis.",
+      "ingredients": [
+        {
+          "name": "Vinho",
+          "measure": "1 garrafa"
+        },
+        {
+          "name": "Sagu",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Cravo e canela",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Leite",
+          "measure": "1/2 litro",
+          "observation": "para o creme"
+        },
+        {
+          "name": "Gema",
+          "measure": "3 unidades",
+          "observation": "para o creme"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1/2 xicara",
+          "observation": "para o creme"
+        }
+      ],
+      "steps": [
+        "Prepare o sagu com vinho, acucar, cravo e canela.",
+        "Faca o creme com leite, gemas e acucar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Strogonoff de Neza",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Strogonoff de Neza; confirmar grafia.",
+      "ingredients": [
+        {
+          "name": "Leite condensado cozido",
+          "measure": "2 latas"
+        },
+        {
+          "name": "Creme de leite",
+          "measure": "2 latas"
+        },
+        {
+          "name": "Gema",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Clara",
+          "measure": "2 unidades",
+          "observation": "em neve"
+        },
+        {
+          "name": "Nozes",
+          "measure": "a gosto",
+          "observation": "moidas"
+        }
+      ],
+      "steps": [
+        "Coloque o leite condensado cozido juntamente com as gemas em uma panela ate ficar bem cremoso.",
+        "Retire a panela do fogo e misture as nozes moidas e o creme de leite.",
+        "Por ultimo, acrescente as claras em neve."
+      ],
+      "images": []
+    },
+    {
+      "name": "Creme de Nozes",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Primeiro ingrediente lido como lata de creme/leite condensado; conferir no caderno.",
+      "ingredients": [
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata",
+          "observation": "leitura aproximada"
+        },
+        {
+          "name": "Gema",
+          "measure": "5 unidades"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 litro"
+        },
+        {
+          "name": "Maizena",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Creme de leite",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Nozes",
+          "measure": "a gosto"
+        },
+        {
+          "name": "Chantilly",
+          "measure": "a gosto"
+        }
+      ],
+      "steps": [
+        "Faca o creme e deixe esfriar.",
+        "Acrescente uma lata de creme de leite.",
+        "Monte alternando camadas de creme e nozes.",
+        "Cubra com chantilly."
+      ],
+      "images": []
+    },
+    {
+      "name": "Torta de Banana",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        {
+          "name": "Banana",
+          "measure": "1 kg"
+        },
+        {
+          "name": "Ovo",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "14 colheres"
+        },
+        {
+          "name": "Margarina",
+          "measure": "a gosto"
+        }
+      ],
+      "steps": [
+        "Frite as bananas na margarina e coloque em um pirex.",
+        "Bata a gemada e coloque sobre as bananas.",
+        "Por ultimo, coloque as claras em neve e leve ao forno."
+      ],
+      "images": []
+    },
+    {
+      "name": "Manjar Branco",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Leite de coco",
+          "measure": "1 vidro"
+        },
+        {
+          "name": "Acucar",
+          "measure": "1 xicara"
+        },
+        {
+          "name": "Maizena",
+          "measure": "1 xicara"
+        }
+      ],
+      "steps": [
+        "Coloque em uma panela o leite condensado, o leite, o acucar e a maizena.",
+        "Depois de frio, misture o leite de coco.",
+        "Coloque em uma forma de pudim e espere gelar.",
+        "Sirva depois de gelado."
+      ],
+      "images": []
+    },
+    {
+      "name": "Confete",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        {
+          "name": "Gelatina de uva",
+          "measure": "1 unidade"
+        },
+        {
+          "name": "Gelatina de laranja",
+          "measure": "1 unidade"
+        },
+        {
+          "name": "Gelatina de morango e limao",
+          "measure": "1 unidade"
+        },
+        {
+          "name": "Leite",
+          "measure": "1 litro"
+        },
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Gema",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Maizena",
+          "measure": "1 colher"
+        }
+      ],
+      "steps": [
+        "Faca as gelatinas bem firmes para que possam ser cortadas depois de frias.",
+        "Faca um creme e espere esfriar.",
+        "Coloque as gelatinas cortadas em cubinhos com o creme.",
+        "Leve a geladeira e sirva."
+      ],
+      "images": []
+    },
+    {
+      "name": "Toucinho do Ceu",
+      "category": "Sobremesas",
+      "description": "Receita de recorte impresso colado no caderno.",
+      "preparationTimeMinutes": 60,
+      "ingredients": [
+        {
+          "name": "Leite",
+          "measure": "1 litro"
+        },
+        {
+          "name": "Margarina de culinaria ou manteiga",
+          "measure": "3 colheres cheias"
+        },
+        {
+          "name": "Ovo",
+          "measure": "5 unidades"
+        },
+        {
+          "name": "Pao d'agua",
+          "measure": "4 unidades"
+        },
+        {
+          "name": "Coco",
+          "measure": "100 g"
+        },
+        {
+          "name": "Acucar",
+          "measure": "3 xicaras"
+        }
+      ],
+      "steps": [
+        "Bata todos os ingredientes no liquidificador.",
+        "Asse por 1 hora em forno a 200 graus."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolinho Frito Sonho",
+      "category": "Salgados",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Bolinho Frito (1 sonho); confirmar no caderno.",
+      "ingredients": [
+        {
+          "name": "Ovo",
+          "measure": "1 unidade"
+        },
+        {
+          "name": "Oleo",
+          "measure": "4 colheres"
+        },
+        {
+          "name": "Vinagre",
+          "measure": "3 colheres"
+        },
+        {
+          "name": "Acucar",
+          "measure": "4 colheres"
+        },
+        {
+          "name": "Sal",
+          "measure": "1 pitada"
+        },
+        {
+          "name": "Fermento em po",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Farinha de trigo",
+          "measure": "1 1/2 xicara"
+        },
+        {
+          "name": "Oleo",
+          "measure": "suficiente",
+          "observation": "para fritar"
+        },
+        {
+          "name": "Acucar e canela",
+          "measure": "a gosto",
+          "observation": "para passar"
+        }
+      ],
+      "steps": [
+        "Misture os ingredientes ate dar ponto.",
+        "Frite em oleo quente.",
+        "Passe em acucar e canela."
+      ],
+      "images": []
+    },
+    {
+      "name": "Brigadeiro Branco",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Margarina",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Confete",
+          "measure": "a gosto",
+          "observation": "para passar"
+        }
+      ],
+      "steps": [
+        "Leve ao fogo ate desprender do fundo da panela.",
+        "Deixe esfriar, enrole e passe no confete."
+      ],
+      "images": []
+    },
+    {
+      "name": "Brigadeiro Preto",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Margarina",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Nescau",
+          "measure": "3 colheres"
+        },
+        {
+          "name": "Chocolate granulado",
+          "measure": "a gosto",
+          "observation": "para passar"
+        }
+      ],
+      "steps": [
+        "Leve ao fogo ate desprender do fundo da panela.",
+        "Deixe esfriar, enrole e passe no chocolate granulado."
+      ],
+      "images": []
+    },
+    {
+      "name": "Brigadeiro com Coco",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Margarina",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Gema",
+          "measure": "2 unidades"
+        },
+        {
+          "name": "Coco",
+          "measure": "1 pacote",
+          "observation": "50 g"
+        },
+        {
+          "name": "Coco",
+          "measure": "a gosto",
+          "observation": "para passar em volta"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Brigadeiro com Nozes ou Passas",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Margarina",
+          "measure": "2 colheres"
+        },
+        {
+          "name": "Nozes ou passas",
+          "measure": "50 g"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Beijinho de Coco 2",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Primeiro ingrediente duvidoso, lido como glucose ou leite condensado.",
+      "ingredients": [
+        {
+          "name": "Glucose ou leite condensado",
+          "measure": "1 lata",
+          "observation": "leitura duvidosa"
+        },
+        {
+          "name": "Coco ralado",
+          "measure": "1 unidade",
+          "observation": "em fruta"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Acucar",
+          "measure": "a gosto"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bom-bom de Coco ou Nozes",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Coco ou nozes",
+          "measure": "1 pacote",
+          "observation": "moidas"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Chocolate",
+          "measure": "a gosto",
+          "observation": "derretido para cobrir"
+        }
+      ],
+      "steps": [
+        "Prepare o doce com leite condensado, coco ou nozes e margarina.",
+        "Cubra com chocolate derretido."
+      ],
+      "images": []
+    },
+    {
+      "name": "Cajuzinho",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Ingrediente lido como claras em neve ou leite condensado.",
+      "ingredients": [
+        {
+          "name": "Amendoim",
+          "measure": "500 g",
+          "observation": "torrado e moido"
+        },
+        {
+          "name": "Claras em neve ou leite condensado",
+          "measure": "3 unidades"
+        },
+        {
+          "name": "Acucar",
+          "measure": "6 colheres"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Docinho de Banana",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        {
+          "name": "Banana",
+          "measure": "3 xicaras",
+          "observation": "amassadas"
+        },
+        {
+          "name": "Acucar",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Gelatina de cereja",
+          "measure": "1 caixa"
+        },
+        {
+          "name": "Karo ou mel",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Acucar",
+          "measure": "a gosto",
+          "observation": "para passar"
+        }
+      ],
+      "steps": [
+        "Misture tudo e leve ao fogo, mexendo sempre, ate aparecer o fundo da panela.",
+        "Passe em acucar comum."
+      ],
+      "images": []
+    },
+    {
+      "name": "Docinho de Goiabada",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        {
+          "name": "Leite condensado",
+          "measure": "1 lata"
+        },
+        {
+          "name": "Goiabada",
+          "measure": "1/2 lata"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 colher"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Docinho de Cenoura",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        {
+          "name": "Cenoura",
+          "measure": "2 xicaras",
+          "observation": "ralada"
+        },
+        {
+          "name": "Leite",
+          "measure": "2 xicaras"
+        },
+        {
+          "name": "Acucar",
+          "measure": "4 xicaras"
+        },
+        {
+          "name": "Coco ralado",
+          "measure": "100 g"
+        }
+      ],
+      "steps": [
+        "Bata os ingredientes no liquidificador.",
+        "Coloque em uma panela e leve ao fogo ate desprender do fundo da panela."
+      ],
+      "images": []
+    },
+    {
+      "name": "Docinho de Aipim",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        {
+          "name": "Aipim",
+          "measure": "1/2 kg",
+          "observation": "cozido e amassado"
+        },
+        {
+          "name": "Acucar",
+          "measure": "250 g"
+        },
+        {
+          "name": "Canela em po",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Margarina",
+          "measure": "1 colher"
+        },
+        {
+          "name": "Coco ralado",
+          "measure": "100 g"
+        }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Doce de Leite Condensado Cozido com Coco",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita sem titulo visivel.",
+      "preparationTimeMinutes": 0,
+      "notes": "Receita aparece como continuacao de pagina; titulo nao estava visivel.",
+      "ingredients": [
+        { "name": "Leite condensado cozido", "measure": "1 lata" },
+        { "name": "Leite de coco", "measure": "1 vidro pequeno" },
+        { "name": "Gema", "measure": "6 unidades" }
+      ],
+      "steps": [
+        "Faca uma calda.",
+        "Misture os ingredientes e leve ao fogo ate aparecer o fundo da panela."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bom-bom de Nozes",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Passas de uva", "measure": "1/2 xicara" },
+        { "name": "Ameixa", "measure": "1/2 xicara", "observation": "picada" },
+        { "name": "Nozes", "measure": "1/2 xicara", "observation": "moidas" },
+        { "name": "Leite condensado", "measure": "1 lata" },
+        { "name": "Acucar", "measure": "8 colheres" },
+        { "name": "Agua", "measure": "1 xicara" },
+        { "name": "Chocolate", "measure": "a gosto", "observation": "para cobrir" }
+      ],
+      "steps": [
+        "Faca uma calda com o acucar e a agua.",
+        "Despeje em uma panela juntamente com os outros ingredientes.",
+        "Cozinhe, mexendo sempre, ate aparecer o fundo da panela.",
+        "Depois de frio, enrole e cubra com chocolate em banho-maria."
+      ],
+      "images": []
+    },
+    {
+      "name": "Docinho de Banana com Gelatina",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Banana", "measure": "3 xicaras", "observation": "amassadas" },
+        { "name": "Acucar", "measure": "2 xicaras" },
+        { "name": "Gelatina", "measure": "1 pacote", "observation": "royal" }
+      ],
+      "steps": [
+        "Misture os ingredientes e leve ao fogo ate dar ponto.",
+        "Deixe esfriar e modele."
+      ],
+      "images": []
+    },
+    {
+      "name": "Docinho de Queijo",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Leite condensado", "measure": "1 lata" },
+        { "name": "Manteiga", "measure": "2 colheres" },
+        { "name": "Queijo prato", "measure": "1 xicara", "observation": "ralado" },
+        { "name": "Acucar refinado", "measure": "a gosto", "observation": "para passar" }
+      ],
+      "steps": [
+        "Leve ao fogo mexendo ate desprender do fundo da panela.",
+        "Despeje em um prato untado e deixe esfriar.",
+        "Passe no acucar refinado e coloque em forminhas."
+      ],
+      "images": []
+    },
+    {
+      "name": "Quadradinhos de Pinhao",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Pinhao", "measure": "1/2 kg", "observation": "cozido e moido" },
+        { "name": "Coco ralado", "measure": "1 xicara" },
+        { "name": "Acucar", "measure": "3 xicaras" },
+        { "name": "Agua", "measure": "1 xicara" },
+        { "name": "Cravo e canela", "measure": "1 colher", "observation": "moidos" }
+      ],
+      "steps": [
+        "Cozinhe todos os ingredientes em fogo brando, mexendo sempre com uma colher de pau, ate soltar da panela.",
+        "Coloque sobre uma mesa de marmore ou inox.",
+        "Corte em quadradinhos."
+      ],
+      "images": []
+    },
+    {
+      "name": "Manjar Branco 2",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Leite", "measure": "1 litro" },
+        { "name": "Leite condensado", "measure": "1 lata" },
+        { "name": "Leite de coco", "measure": "2 vidros" },
+        { "name": "Coco ralado", "measure": "200 g" },
+        { "name": "Maizena", "measure": "6 colheres" },
+        { "name": "Acucar", "measure": "a gosto" },
+        { "name": "Vinho", "measure": "3 copos", "observation": "para calda" },
+        { "name": "Agua", "measure": "2 copos", "observation": "para calda" },
+        { "name": "Acucar", "measure": "1 copo", "observation": "para calda" },
+        { "name": "Canela", "measure": "a gosto", "observation": "para calda" }
+      ],
+      "steps": [
+        "Coloque em forma molhada, espere esfriar e leve para gelar.",
+        "Faca a calda com vinho, agua, acucar e canela.",
+        "Depois de fria, sirva a calda por cima."
+      ],
+      "images": []
+    },
+    {
+      "name": "Mousse de Chocolate 2",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Chocolate meio amargo", "measure": "185 g" },
+        { "name": "Gema", "measure": "1 unidade", "observation": "peneirada" },
+        { "name": "Conhaque", "measure": "2 colheres" },
+        { "name": "Clara", "measure": "2 unidades", "observation": "em neve" },
+        { "name": "Creme de leite", "measure": "50 ml" },
+        { "name": "Acucar", "measure": "2 colheres" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Mousse de Cafe",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Chocolate ao leite", "measure": "180 g" },
+        { "name": "Gema", "measure": "1 unidade" },
+        { "name": "Conhaque", "measure": "2 colheres" },
+        { "name": "Cafe forte", "measure": "2 colheres" },
+        { "name": "Clara", "measure": "2 unidades", "observation": "em neve" },
+        { "name": "Creme de leite", "measure": "90 ml" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Mousse Branco",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Chocolate branco", "measure": "180 g" },
+        { "name": "Agua", "measure": "2 colheres" },
+        { "name": "Creme de leite fresco", "measure": "90 ml" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Pudim Simples",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Leite", "measure": "2 copos" },
+        { "name": "Maizena", "measure": "2 colheres" },
+        { "name": "Ovo", "measure": "3 unidades" },
+        { "name": "Margarina", "measure": "2 colheres" },
+        { "name": "Acucar", "measure": "1 xicara" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Rocambole de Pao",
+      "category": "Salgados",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Pao de sanduiche", "measure": "1 unidade", "observation": "cortado para torta fria" },
+        { "name": "Pate de presunto", "measure": "1 unidade" },
+        { "name": "Margarina", "measure": "1 tablete" },
+        { "name": "Salsicha", "measure": "1 lata" }
+      ],
+      "steps": [
+        "Bata a margarina e o pate.",
+        "Molhe o pao no leite e passe sobre o pao.",
+        "Corte a salsicha e coloque sobre o pao.",
+        "Enrole com um pano umido e leve a geladeira por alguns minutos.",
+        "Corte em fatias e enfeite."
+      ],
+      "images": []
+    },
+    {
+      "name": "Panettone",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Gema", "measure": "4 unidades" },
+        { "name": "Fermento", "measure": "4 tabletes" },
+        { "name": "Agua quente", "measure": "1 xicara" },
+        { "name": "Farinha de trigo", "measure": "6 xicaras" },
+        { "name": "Ovo", "measure": "4 unidades" },
+        { "name": "Acucar", "measure": "1 xicara" },
+        { "name": "Margarina", "measure": "1 xicara" },
+        { "name": "Agua morna", "measure": "1/2 xicara" },
+        { "name": "Sal", "measure": "1 pitada" },
+        { "name": "Frutas cristalizadas", "measure": "2 xicaras" },
+        { "name": "Passas", "measure": "2 xicaras" }
+      ],
+      "steps": [
+        "Dissolva o fermento na agua quente e deixe crescer.",
+        "Misture com os demais ingredientes e sove.",
+        "Depois misture as frutas cristalizadas e as passas.",
+        "Sove, coloque na forma propria e asse."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pao sem Gordura",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Fuba", "measure": "1 copo", "observation": "escaldado" },
+        { "name": "Acucar", "measure": "3 colheres" },
+        { "name": "Sal", "measure": "1/2 colher" },
+        { "name": "Fermento de pao", "measure": "2 colheres" },
+        { "name": "Leite", "measure": "1 xicara" },
+        { "name": "Farinha de trigo", "measure": "a gosto" }
+      ],
+      "steps": [
+        "Misture o fermento no fuba frio.",
+        "Acrescente trigo ate dar para sovar bem.",
+        "Deixe crescer e asse."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pao Caseiro",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Fermento", "measure": "1 colher" },
+        { "name": "Sal", "measure": "1 colher" },
+        { "name": "Acucar", "measure": "2 xicaras" },
+        { "name": "Banha", "measure": "2 colheres" },
+        { "name": "Ovo", "measure": "4 unidades" },
+        { "name": "Erva-doce", "measure": "a gosto" },
+        { "name": "Agua morna", "measure": "4 xicaras" },
+        { "name": "Farinha de trigo", "measure": "13 xicaras" }
+      ],
+      "steps": [
+        "Bata muito bem e coloque para assar em uma forma."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pao Italiano",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Azeite", "measure": "1 copo" },
+        { "name": "Ovo", "measure": "2 unidades" },
+        { "name": "Acucar", "measure": "2 colheres" },
+        { "name": "Fermento", "measure": "2 colheres" },
+        { "name": "Sal", "measure": "1 colher" },
+        { "name": "Agua morna", "measure": "1 copo grande" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Pao de Queijo de Polvilho Azedo",
+      "category": "Salgados",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Polvilho azedo", "measure": "2 copos" },
+        { "name": "Leite", "measure": "1 copo" },
+        { "name": "Azeite", "measure": "1/2 copo" },
+        { "name": "Queijo", "measure": "1 fatia" },
+        { "name": "Sal", "measure": "1 pitada" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Rosca de Coalhada",
+      "category": "Salgados",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Receita com alguns ingredientes lidos parcialmente.",
+      "ingredients": [
+        { "name": "Fuba", "measure": "1 punhado" },
+        { "name": "Mandioca", "measure": "1 punhado" },
+        { "name": "Polvilho", "measure": "1 punhado" },
+        { "name": "Banha", "measure": "1 colher" },
+        { "name": "Ovo", "measure": "1 unidade" },
+        { "name": "Sal", "measure": "a gosto" }
+      ],
+      "steps": [
+        "Escalde os quatro ingredientes com agua fervendo e deixe esfriar.",
+        "Depois coloque o ovo, sal a gosto e o restante do polvilho ate a massa ficar em ponto de fazer rosca."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pizza Diferente",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 20,
+      "ingredients": [
+        { "name": "Farinha de trigo", "measure": "1 1/2 xicara" },
+        { "name": "Queijo ralado", "measure": "4 colheres", "observation": "raspas" },
+        { "name": "Cebola", "measure": "1 unidade", "observation": "media picada" },
+        { "name": "Fermento em po", "measure": "2 1/2 colheres" },
+        { "name": "Acucar", "measure": "1 colher" },
+        { "name": "Leite", "measure": "1 xicara" },
+        { "name": "Azeite", "measure": "4 colheres" },
+        { "name": "Ovo", "measure": "1 unidade" },
+        { "name": "Sal", "measure": "a gosto" },
+        { "name": "Molho de tomate", "measure": "4 colheres", "observation": "recheio" },
+        { "name": "Mussarela", "measure": "150 g", "observation": "ralada" }
+      ],
+      "steps": [
+        "Misture farinha, queijo, cebola, fermento, acucar e sal.",
+        "Junte leite, oleo e ovo e mexa bem.",
+        "Despeje em forma redonda untada com margarina e polvilhada com trigo.",
+        "Leve ao forno medio pre-aquecido por 20 minutos.",
+        "Espalhe o molho de tomate na massa assada, cubra com mussarela e leve ao forno para derreter."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pizza Rapida",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Leite", "measure": "1 copo" },
+        { "name": "Azeite", "measure": "1 copo" },
+        { "name": "Ovo", "measure": "1 unidade" },
+        { "name": "Sal", "measure": "1 pitada" },
+        { "name": "Fermento em po", "measure": "2 colheres" },
+        { "name": "Farinha de trigo", "measure": "a gosto" }
+      ],
+      "steps": [
+        "Coloque trigo ate dar ponto de mingau.",
+        "Recheie a gosto."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pizza de Liquidificador",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Ovo", "measure": "1 unidade" },
+        { "name": "Leite", "measure": "1 xicara" },
+        { "name": "Fermento em po", "measure": "1 colher" },
+        { "name": "Margarina", "measure": "3 colheres" },
+        { "name": "Azeite", "measure": "3 colheres" },
+        { "name": "Farinha de trigo", "measure": "suficiente" },
+        { "name": "Recheio", "measure": "a gosto" }
+      ],
+      "steps": [
+        "Misture os ingredientes, colocando trigo suficiente para a massa ficar mole."
+      ],
+      "images": []
+    },
+    {
+      "name": "Massa de Pastel",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Farinha de trigo", "measure": "3 punhados" },
+        { "name": "Azeite", "measure": "2 colheres" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Biscoito Pirulito 2",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Farinha de trigo", "measure": "2 1/2 xicaras" },
+        { "name": "Manteiga", "measure": "1 xicara" },
+        { "name": "Acucar", "measure": "3/4 xicara" },
+        { "name": "Sal", "measure": "1 pitada" },
+        { "name": "Acucar", "measure": "1 1/2 xicara", "observation": "calda" },
+        { "name": "Chocolate em po", "measure": "4 colheres", "observation": "calda" },
+        { "name": "Agua", "measure": "um pouco", "observation": "calda" }
+      ],
+      "steps": [
+        "Misture a manteiga e o acucar, depois o sal e o trigo.",
+        "Faca biscoitinhos compridos com uma ponta mais grossa.",
+        "Depois de assados, passe na calda.",
+        "Quando estiver quase no ponto, mergulhe a ponta dos biscoitos e passe no acucar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Rosca de Polvilho 2",
+      "category": "Salgados",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Polvilho", "measure": "1/2 pote" },
+        { "name": "Leite", "measure": "a gosto", "observation": "fervendo" },
+        { "name": "Ovo", "measure": "2 unidades" },
+        { "name": "Gordura", "measure": "2 colheres" },
+        { "name": "Sal", "measure": "a gosto" }
+      ],
+      "steps": [
+        "Misture o restante do polvilho ate dar ponto."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo Salgado",
+      "category": "Salgados",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Ovo", "measure": "2 unidades" },
+        { "name": "Azeite", "measure": "1 xicara", "observation": "quase cheia" },
+        { "name": "Tomate", "measure": "3 unidades", "observation": "sem pele" },
+        { "name": "Carne moida temperada", "measure": "1 pote" },
+        { "name": "Leite", "measure": "2 xicaras" },
+        { "name": "Fermento em po", "measure": "2 colheres" },
+        { "name": "Sal", "measure": "1 colher" },
+        { "name": "Farinha de trigo", "measure": "a gosto" }
+      ],
+      "steps": [
+        "Misture tudo e asse."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pao de Queijo 2",
+      "category": "Salgados",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Ovo", "measure": "3 unidades" },
+        { "name": "Oleo", "measure": "1 copo" },
+        { "name": "Polvilho doce", "measure": "3 colheres" },
+        { "name": "Parmesao ralado", "measure": "100 g" },
+        { "name": "Fermento em po", "measure": "1 colher" }
+      ],
+      "steps": [
+        "Bata tudo no liquidificador.",
+        "Leve ao forno em forma untada e enfarinhada."
+      ],
+      "images": []
+    },
+    {
+      "name": "Doce de Cha",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Leite condensado", "measure": "1 lata" },
+        { "name": "Pudim Royal", "measure": "1 pacote" },
+        { "name": "Gema", "measure": "2 unidades" },
+        { "name": "Margarina", "measure": "1 colher" },
+        { "name": "Raspas de limao", "measure": "1 unidade" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Docinho de Amendoim",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Leite condensado", "measure": "1 lata" },
+        { "name": "Amendoim", "measure": "2 pires", "observation": "torrado e moido" },
+        { "name": "Chocolate", "measure": "2 colheres" },
+        { "name": "Margarina", "measure": "1 colher" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Docinho de Nozes",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Nozes", "measure": "500 g", "observation": "moidas" },
+        { "name": "Coco ralado", "measure": "500 g" },
+        { "name": "Acucar", "measure": "500 g", "observation": "calda grossa" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Massa de Tortei",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Recheio lido como moranga com temperos e farinha de rosca.",
+      "ingredients": [
+        { "name": "Azeite", "measure": "1 xicara" },
+        { "name": "Cachaca", "measure": "1/2 xicara" },
+        { "name": "Ovo", "measure": "2 ou 3 unidades" },
+        { "name": "Agua quente", "measure": "a gosto" },
+        { "name": "Farinha de trigo", "measure": "a gosto" },
+        { "name": "Moranga", "measure": "a gosto", "observation": "recheio" },
+        { "name": "Noz-moscada", "measure": "a gosto", "observation": "recheio" },
+        { "name": "Canela", "measure": "a gosto", "observation": "recheio" },
+        { "name": "Farinha de rosca", "measure": "a gosto", "observation": "recheio" }
+      ],
+      "steps": [
+        "Coloque agua quente e mexa bem.",
+        "Depois que esfriar, sove com a mao.",
+        "Enrole para fazer em forma de pastel."
+      ],
+      "images": []
+    },
+    {
+      "name": "Pizza Simples",
+      "category": "Massas",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Farinha de trigo", "measure": "2 xicaras" },
+        { "name": "Ovo", "measure": "2 unidades" },
+        { "name": "Leite", "measure": "1 xicara" },
+        { "name": "Sal", "measure": "a gosto" },
+        { "name": "Fermento", "measure": "a gosto" },
+        { "name": "Margarina", "measure": "2 colheres" },
+        { "name": "Fermento em po", "measure": "1 colher" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolacha do Bilhete",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita em papel avulso.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Ovo", "measure": "4 unidades" },
+        { "name": "Banha", "measure": "1 xicara" },
+        { "name": "Azeite", "measure": "um pouco" },
+        { "name": "Fuba", "measure": "4 xicaras" },
+        { "name": "Leite", "measure": "1 xicara" },
+        { "name": "Acucar", "measure": "3 xicaras" },
+        { "name": "Fermento em po", "measure": "1 colher" },
+        { "name": "Sal amoniaco", "measure": "1 colher" },
+        { "name": "Sal", "measure": "1 pitada" },
+        { "name": "Farinha de trigo", "measure": "a gosto" }
+      ],
+      "steps": [
+        "Misture os ingredientes e coloque trigo ate dar ponto."
+      ],
+      "images": []
+    },
+    {
+      "name": "Doce de Nega 2",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita em papel avulso.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Ovo", "measure": "3 unidades" },
+        { "name": "Banha ou margarina", "measure": "3 colheres" },
+        { "name": "Acucar", "measure": "3 xicaras" },
+        { "name": "Cachaca", "measure": "3 colheres" },
+        { "name": "Nescau", "measure": "3 colheres" },
+        { "name": "Sal amoniaco", "measure": "3 colheres" },
+        { "name": "Leite", "measure": "2 xicaras" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Strogonoff de Cebola",
+      "category": "Salgados",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Strogonoff de Cebola; confirmar grafia no caderno.",
+      "ingredients": [
+        { "name": "Cebola", "measure": "3 kg", "observation": "cortadas em rodelas finas e fritas na manteiga" },
+        { "name": "Tomate", "measure": "4 a 5 unidades", "observation": "sem pele e sem sementes" },
+        { "name": "Sal e pimenta", "measure": "a gosto" },
+        { "name": "Palmito ou champignon", "measure": "a gosto", "observation": "picado" },
+        { "name": "Requeijao", "measure": "1 vidro" },
+        { "name": "Queijo parmesao ralado", "measure": "500 g" },
+        { "name": "Creme de leite ou nata", "measure": "1 lata" }
+      ],
+      "steps": [
+        "Refogue a cebola e tempere com sal e pimenta.",
+        "Adicione palmito ou champignon picado, requeijao e queijo parmesao ralado.",
+        "Sempre que precisar, acrescente mais requeijao.",
+        "Ao servir, adicione creme de leite ou nata."
+      ],
+      "images": []
+    },
+    {
+      "name": "Sufle de Sardinha",
+      "category": "Salgados",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Maizena", "measure": "3 colheres" },
+        { "name": "Leite", "measure": "3 xicaras" },
+        { "name": "Gema", "measure": "2 unidades" },
+        { "name": "Sardinha", "measure": "1 lata", "observation": "com molho de tomate" },
+        { "name": "Sardinha", "measure": "2 colheres", "observation": "picada" },
+        { "name": "Sal", "measure": "a gosto" },
+        { "name": "Clara", "measure": "2 unidades", "observation": "em neve" }
+      ],
+      "steps": [
+        "Coloque em um pirex uma camada de sardinha e outra de creme.",
+        "Por ultimo, coloque as claras em neve."
+      ],
+      "images": []
+    },
+    {
+      "name": "Chuchu ao Molho Branco",
+      "category": "Salgados",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Chuchu", "measure": "3 unidades" },
+        { "name": "Cebola", "measure": "1/2 unidade", "observation": "picada" },
+        { "name": "Salsa", "measure": "a gosto", "observation": "picada" },
+        { "name": "Caldo de galinha", "measure": "a gosto" },
+        { "name": "Azeite", "measure": "4 colheres" },
+        { "name": "Margarina", "measure": "1 colher", "observation": "molho branco" },
+        { "name": "Farinha de trigo", "measure": "2 colheres", "observation": "molho branco" },
+        { "name": "Leite", "measure": "a gosto", "observation": "molho branco" }
+      ],
+      "steps": [
+        "Descasque e corte o chuchu bem picado.",
+        "Acrescente a cebola, a salsa, o caldo de galinha e o azeite.",
+        "Cozinhe em fogo brando, cuidando para nao grudar.",
+        "Para o molho branco, frite a margarina, acrescente o trigo e misture leite aos poucos ate engrossar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Coxinhas de Galinha",
+      "category": "Salgados",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Caldo de galinha", "measure": "1/2 medida", "observation": "cozido, agua ou leite" },
+        { "name": "Margarina", "measure": "100 g" },
+        { "name": "Gema", "measure": "1 unidade" },
+        { "name": "Cebola", "measure": "1 unidade", "observation": "picada ou ralada" },
+        { "name": "Queijo ralado", "measure": "1 colher" },
+        { "name": "Catchup", "measure": "1 colher" },
+        { "name": "Caldo de galinha", "measure": "1 cubo" },
+        { "name": "Farinha de trigo", "measure": "300 g" },
+        { "name": "Clara", "measure": "1 unidade" },
+        { "name": "Farinha de rosca", "measure": "a gosto" },
+        { "name": "Oleo", "measure": "a gosto", "observation": "para fritar" }
+      ],
+      "steps": [
+        "Prepare a massa com os ingredientes.",
+        "Passe na clara e na farinha de rosca.",
+        "Frite em oleo quente."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo 7 Massas",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "notes": "Receita de quantidade grande; alguns ingredientes aparecem sem medida exata.",
+      "ingredients": [
+        { "name": "Farinha de trigo", "measure": "a gosto" },
+        { "name": "Acucar", "measure": "a gosto" },
+        { "name": "Fermento em po", "measure": "1 colher grande" },
+        { "name": "Ovo", "measure": "4 duzias e meia" },
+        { "name": "Laranja", "measure": "2 unidades" },
+        { "name": "Doce de leite", "measure": "3 unidades", "observation": "recheio" },
+        { "name": "Leite condensado", "measure": "6 latas", "observation": "recheio" },
+        { "name": "Coco", "measure": "6 pacotes", "observation": "100 g cada" },
+        { "name": "Brigadeiro, coco e leite", "measure": "a gosto", "observation": "recheio/suspiro" }
+      ],
+      "steps": [
+        "Montar em 4 camadas conforme o desenho do caderno."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo Simples 3 Massas",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Farinha de trigo", "measure": "1 kg" },
+        { "name": "Acucar", "measure": "2 kg" },
+        { "name": "Ovo", "measure": "2 duzias" },
+        { "name": "Fermento em po", "measure": "a gosto" },
+        { "name": "Doce de leite", "measure": "1 unidade" },
+        { "name": "Coco", "measure": "2 pacotes", "observation": "100 g cada" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolo 5 Massas",
+      "category": "Bolos",
+      "description": "Receita manuscrita.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Farinha de trigo", "measure": "2 kg" },
+        { "name": "Acucar", "measure": "3 kg" },
+        { "name": "Ovo", "measure": "3 duzias" },
+        { "name": "Fermento em po", "measure": "a gosto" },
+        { "name": "Doce de leite ou leite condensado", "measure": "2 unidades" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolo Banana",
+      "category": "Bolos",
+      "description": "Receita manuscrita em papel avulso.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Aveia", "measure": "2 xicaras" },
+        { "name": "Banana", "measure": "4 unidades" },
+        { "name": "Ovo", "measure": "3 unidades" },
+        { "name": "Passas", "measure": "1/2 xicara" },
+        { "name": "Fermento em po", "measure": "1 colher" },
+        { "name": "Azeite", "measure": "1/3 xicara" }
+      ],
+      "steps": [
+        "Bata tudo no liquidificador e asse."
+      ],
+      "images": []
+    },
+    {
+      "name": "Goreda",
+      "category": "Massas",
+      "description": "Receita manuscrita em papel avulso.",
+      "preparationTimeMinutes": 0,
+      "notes": "Titulo lido como Goreda; confirmar grafia.",
+      "ingredients": [
+        { "name": "Gordura vegetal", "measure": "250 g" },
+        { "name": "Farinha de trigo", "measure": "500 g" },
+        { "name": "Leite", "measure": "125 g ou 1 xicara", "observation": "leitura aproximada" },
+        { "name": "Fermento em po", "measure": "2 colheres" }
+      ],
+      "steps": [
+        "Deixe descansar por 1/2 hora.",
+        "Abra com rolo, arrume a goiabada e asse.",
+        "Passe acucar."
+      ],
+      "images": []
+    },
+    {
+      "name": "Bolo de Milho Verde em Lata",
+      "category": "Bolos",
+      "description": "Receita manuscrita em papel avulso.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Milho verde", "measure": "1 lata" },
+        { "name": "Azeite", "measure": "3/4 xicara" },
+        { "name": "Acucar", "measure": "1 1/2 xicara" },
+        { "name": "Fuba", "measure": "1 xicara" },
+        { "name": "Fermento em po", "measure": "1 colher media" },
+        { "name": "Ovo", "measure": "3 unidades" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolacha de Nata 2",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita em papel avulso.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Nata", "measure": "1 xicara" },
+        { "name": "Ovo", "measure": "2 unidades" },
+        { "name": "Farinha", "measure": "3 xicaras" },
+        { "name": "Acucar", "measure": "4 colheres" },
+        { "name": "Fermento em po", "measure": "1 colher" },
+        { "name": "Manteiga", "measure": "2 colheres" },
+        { "name": "Sal", "measure": "1 pitada" },
+        { "name": "Goiabada", "measure": "a gosto", "observation": "para rechear" }
+      ],
+      "steps": [
+        "Recheie com goiabada e faca bolachinhas."
+      ],
+      "images": []
+    },
+    {
+      "name": "Milho com Coco",
+      "category": "Bolos",
+      "description": "Receita manuscrita em papel avulso.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Coco", "measure": "1 pacote", "observation": "100 g" },
+        { "name": "Maizena", "measure": "2 1/2 xicaras" },
+        { "name": "Acucar", "measure": "1/2 xicara" },
+        { "name": "Manteiga", "measure": "1 xicara" },
+        { "name": "Fuba", "measure": "1 xicara" },
+        { "name": "Sal", "measure": "1 pitada" },
+        { "name": "Fermento em po", "measure": "1 colher" },
+        { "name": "Ovo", "measure": "2 unidades" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Bolo de Milho 2",
+      "category": "Bolos",
+      "description": "Receita manuscrita em papel avulso.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Acucar", "measure": "1 1/2 xicara" },
+        { "name": "Leite", "measure": "1 xicara" },
+        { "name": "Farinha de trigo", "measure": "1 xicara" },
+        { "name": "Sal amoniaco", "measure": "1 colherinha" },
+        { "name": "Fermento em po", "measure": "2 colheres" },
+        { "name": "Banha", "measure": "2 colheres" },
+        { "name": "Sal", "measure": "1 pitada" },
+        { "name": "Ovo", "measure": "1 unidade" }
+      ],
+      "steps": [],
+      "images": []
+    },
+    {
+      "name": "Nata 2",
+      "category": "Sobremesas",
+      "description": "Receita manuscrita em papel avulso.",
+      "preparationTimeMinutes": 0,
+      "ingredients": [
+        { "name": "Nata", "measure": "1 xicara" },
+        { "name": "Ovo", "measure": "2 unidades" },
+        { "name": "Farinha", "measure": "3 xicaras" },
+        { "name": "Acucar", "measure": "4 colheres" },
+        { "name": "Fermento em po", "measure": "1 colher" },
+        { "name": "Manteiga", "measure": "2 colheres" },
+        { "name": "Sal", "measure": "1 pitada" },
+        { "name": "Farinha", "measure": "1 xicara", "observation": "outra anotacao" },
+        { "name": "Acucar", "measure": "1/4 colher", "observation": "outra anotacao, leitura aproximada" },
+        { "name": "Banha", "measure": "1 unidade", "observation": "outra anotacao, leitura aproximada" },
+        { "name": "Manteiga", "measure": "100 g", "observation": "outra anotacao" },
+        { "name": "Ovo", "measure": "2 unidades", "observation": "outra anotacao" }
+      ],
+      "steps": [],
+      "images": []
+    }
+  ]
+}

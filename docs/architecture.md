@@ -1,16 +1,16 @@
 # Arquitetura
 
 Frontend:
-- Flutter
+- Android nativo com Kotlin e Jetpack Compose
 
 Estado:
-- Riverpod
+- ViewModel com Coroutines e Flow
 
 Banco:
 - SQLite
 
 ORM:
-- Drift
+- Room
 
 Arquitetura:
-- Clean Architecture
+- MVVM
