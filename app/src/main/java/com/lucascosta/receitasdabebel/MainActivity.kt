@@ -4,13 +4,15 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
-import androidx.compose.foundation.layout.fillMaxSize
-import androidx.compose.foundation.layout.padding
-import androidx.compose.material3.Scaffold
-import androidx.compose.material3.Text
-import androidx.compose.runtime.Composable
-import androidx.compose.ui.Modifier
-import androidx.compose.ui.tooling.preview.Preview
+import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.remember
+import androidx.lifecycle.viewmodel.compose.viewModel
+import com.lucascosta.receitasdabebel.data.importer.RecipeAssetImportManager
+import com.lucascosta.receitasdabebel.data.repository.LocalRecipeRepository
+import com.lucascosta.receitasdabebel.ui.category.CategoriesViewModel
+import com.lucascosta.receitasdabebel.ui.category.CategoriesViewModelFactory
+import com.lucascosta.receitasdabebel.ui.recipe.RecipesViewModel
+import com.lucascosta.receitasdabebel.ui.recipe.RecipesViewModelFactory
 import com.lucascosta.receitasdabebel.ui.theme.ReceitasDaBebelTheme
 
 class MainActivity : ComponentActivity() {
@@ -19,29 +21,31 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             ReceitasDaBebelTheme {
-                Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
-                    Greeting(
-                        name = "Android",
-                        modifier = Modifier.padding(innerPadding)
-                    )
+                val repository = remember {
+                    LocalRecipeRepository.create(applicationContext)
                 }
+                LaunchedEffect(repository) {
+                    RecipeAssetImportManager(
+                        context = applicationContext,
+                        repository = repository
+                    ).importFromAssets()
+                }
+                val categoriesViewModel: CategoriesViewModel = viewModel(
+                    factory = CategoriesViewModelFactory(
+                        repository = repository
+                    )
+                )
+                val recipesViewModel: RecipesViewModel = viewModel(
+                    factory = RecipesViewModelFactory(
+                        repository = repository
+                    )
+                )
+
+                ReceitasDaBebelApp(
+                    categoriesViewModel = categoriesViewModel,
+                    recipesViewModel = recipesViewModel
+                )
             }
         }
-    }
-}
-
-@Composable
-fun Greeting(name: String, modifier: Modifier = Modifier) {
-    Text(
-        text = "Hello $name!",
-        modifier = modifier
-    )
-}
-
-@Preview(showBackground = true)
-@Composable
-fun GreetingPreview() {
-    ReceitasDaBebelTheme {
-        Greeting("Android")
     }
 }
