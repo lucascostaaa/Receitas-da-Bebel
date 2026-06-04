@@ -4,6 +4,7 @@ import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
@@ -23,6 +24,7 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import com.lucascosta.receitasdabebel.R
 import com.lucascosta.receitasdabebel.ui.components.ModernCard
+import com.lucascosta.receitasdabebel.ui.components.ResponsiveContent
 import com.lucascosta.receitasdabebel.ui.components.SectionTitle
 
 @Composable
@@ -33,121 +35,143 @@ fun HomeScreen(
     onOpenFavorites: () -> Unit,
     modifier: Modifier = Modifier
 ) {
-    LazyColumn(
-        modifier = modifier
-            .fillMaxSize()
-            .background(MaterialTheme.colorScheme.background)
-            .padding(horizontal = 20.dp),
-        contentPadding = PaddingValues(top = 28.dp, bottom = 120.dp),
-        verticalArrangement = Arrangement.spacedBy(18.dp)
-    ) {
-        item {
-            Text(
-                text = "Ola, Lucas!",
-                style = MaterialTheme.typography.headlineLarge
-            )
-            Text(
-                text = "O que vamos preservar hoje?",
-                style = MaterialTheme.typography.bodyLarge,
-                color = MaterialTheme.colorScheme.onSurfaceVariant
-            )
-        }
-        item {
-            ModernCard(
-                modifier = Modifier.fillMaxWidth()
-            ) {
-                Box(
-                    modifier = Modifier
-                        .fillMaxWidth()
-                        .clip(RoundedCornerShape(22.dp))
-                        .background(MaterialTheme.colorScheme.primary)
-                        .padding(22.dp)
+    ResponsiveContent(modifier = modifier) {
+        LazyColumn(
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(horizontal = 20.dp),
+            contentPadding = PaddingValues(top = 28.dp, bottom = 120.dp),
+            verticalArrangement = Arrangement.spacedBy(18.dp)
+        ) {
+            item {
+                Text(
+                    text = "Bem Vindo(a), ao Receitas da Bebel!",
+                    style = MaterialTheme.typography.headlineLarge
+                )
+                Text(
+                    text = "O que vamos preparar hoje?",
+                    style = MaterialTheme.typography.bodyLarge,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant
+                )
+            }
+            item {
+                ModernCard(
+                    modifier = Modifier.fillMaxWidth()
                 ) {
-                    Column(verticalArrangement = Arrangement.spacedBy(10.dp)) {
-                        Text(
-                            text = "Receitas da Bebel",
-                            style = MaterialTheme.typography.headlineMedium,
-                            color = MaterialTheme.colorScheme.onPrimary
-                        )
-                        Text(
-                            text = "Digitalize o caderno, organize ingredientes e compartilhe com a familia.",
-                            style = MaterialTheme.typography.bodyMedium,
-                            color = MaterialTheme.colorScheme.onPrimary
-                        )
-                        Button(onClick = onCreateRecipe) {
-                            Text("Cadastrar nova receita")
+                    Box(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .clip(RoundedCornerShape(22.dp))
+                            .background(MaterialTheme.colorScheme.primary)
+                            .padding(22.dp)
+                    ) {
+                        Column(verticalArrangement = Arrangement.spacedBy(10.dp)) {
+                            Text(
+                                text = "Receitas da Bebel",
+                                style = MaterialTheme.typography.headlineMedium,
+                                color = MaterialTheme.colorScheme.onPrimary
+                            )
+                            Text(
+                                text = "Digitalize o caderno, organize ingredientes e compartilhe com a familia.",
+                                style = MaterialTheme.typography.bodyMedium,
+                                color = MaterialTheme.colorScheme.onPrimary
+                            )
+                            Button(onClick = onCreateRecipe) {
+                                Text("Cadastrar nova receita")
+                            }
                         }
                     }
                 }
             }
-        }
-        item {
-            SectionTitle(title = "Atalhos")
-        }
-        item {
-            Row(
-                horizontalArrangement = Arrangement.spacedBy(12.dp),
-                modifier = Modifier.fillMaxWidth()
-            ) {
-                HomeShortcut(
-                    title = "Receitas",
-                    subtitle = "Listar e buscar",
-                    iconRes = R.drawable.ic_shortcut_recipes,
-                    onClick = onOpenRecipes,
-                    modifier = Modifier.weight(1f)
-                )
-                HomeShortcut(
-                    title = "Categorias",
-                    subtitle = "Organizar",
-                    iconRes = R.drawable.ic_shortcut_categories,
-                    onClick = onOpenCategories,
-                    modifier = Modifier.weight(1f)
+            item {
+                SectionTitle(title = "Atalhos")
+            }
+            item {
+                ShortcutPair(
+                    first = {
+                        HomeShortcut(
+                            title = "Receitas",
+                            subtitle = "Listar e buscar",
+                            iconRes = R.drawable.ic_shortcut_recipes,
+                            onClick = onOpenRecipes
+                        )
+                    },
+                    second = {
+                        HomeShortcut(
+                            title = "Categorias",
+                            subtitle = "Organizar",
+                            iconRes = R.drawable.ic_shortcut_categories,
+                            onClick = onOpenCategories
+                        )
+                    }
                 )
             }
-        }
-        item {
-            Row(
-                horizontalArrangement = Arrangement.spacedBy(12.dp),
-                modifier = Modifier.fillMaxWidth()
-            ) {
-                HomeShortcut(
-                    title = "Favoritos",
-                    subtitle = "Mais queridas",
-                    iconRes = R.drawable.ic_shortcut_favorites,
-                    onClick = onOpenFavorites,
-                    modifier = Modifier.weight(1f)
+            item {
+                ShortcutPair(
+                    first = {
+                        HomeShortcut(
+                            title = "Favoritos",
+                            subtitle = "Mais queridas",
+                            iconRes = R.drawable.ic_shortcut_favorites,
+                            onClick = onOpenFavorites
+                        )
+                    },
+                    second = {
+                        HomeShortcut(
+                            title = "Nova",
+                            subtitle = "Cadastrar",
+                            iconRes = R.drawable.ic_shortcut_add,
+                            onClick = onCreateRecipe
+                        )
+                    }
                 )
-                HomeShortcut(
-                    title = "Nova",
-                    subtitle = "Cadastrar",
-                    iconRes = R.drawable.ic_shortcut_add,
+            }
+            item {
+                SectionTitle(title = "Proximo passo")
+            }
+            item {
+                ModernCard(
                     onClick = onCreateRecipe,
-                    modifier = Modifier.weight(1f)
-                )
+                    modifier = Modifier.fillMaxWidth()
+                ) {
+                    Column(
+                        modifier = Modifier.padding(18.dp),
+                        verticalArrangement = Arrangement.spacedBy(8.dp)
+                    ) {
+                        Text(
+                            text = "Adicionar a primeira receita",
+                            style = MaterialTheme.typography.titleLarge
+                        )
+                        Text(
+                            text = "Cadastre nome, categoria, modo de preparo e depois anexe ingredientes e fotos.",
+                            style = MaterialTheme.typography.bodyMedium,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant
+                        )
+                    }
+                }
             }
         }
-        item {
-            SectionTitle(title = "Proximo passo")
-        }
-        item {
-            ModernCard(
-                onClick = onCreateRecipe,
+    }
+}
+
+@Composable
+private fun ShortcutPair(
+    first: @Composable () -> Unit,
+    second: @Composable () -> Unit
+) {
+    BoxWithConstraints(modifier = Modifier.fillMaxWidth()) {
+        if (maxWidth < 360.dp) {
+            Column(verticalArrangement = Arrangement.spacedBy(12.dp)) {
+                Box(modifier = Modifier.fillMaxWidth()) { first() }
+                Box(modifier = Modifier.fillMaxWidth()) { second() }
+            }
+        } else {
+            Row(
+                horizontalArrangement = Arrangement.spacedBy(12.dp),
                 modifier = Modifier.fillMaxWidth()
             ) {
-                Column(
-                    modifier = Modifier.padding(18.dp),
-                    verticalArrangement = Arrangement.spacedBy(8.dp)
-                ) {
-                    Text(
-                        text = "Adicionar a primeira receita",
-                        style = MaterialTheme.typography.titleLarge
-                    )
-                    Text(
-                        text = "Cadastre nome, categoria, modo de preparo e depois anexe ingredientes e fotos.",
-                        style = MaterialTheme.typography.bodyMedium,
-                        color = MaterialTheme.colorScheme.onSurfaceVariant
-                    )
-                }
+                Box(modifier = Modifier.weight(1f)) { first() }
+                Box(modifier = Modifier.weight(1f)) { second() }
             }
         }
     }
@@ -163,7 +187,7 @@ private fun HomeShortcut(
 ) {
     ModernCard(
         onClick = onClick,
-        modifier = modifier
+        modifier = modifier.fillMaxWidth()
     ) {
         Column(
             modifier = Modifier.padding(16.dp),

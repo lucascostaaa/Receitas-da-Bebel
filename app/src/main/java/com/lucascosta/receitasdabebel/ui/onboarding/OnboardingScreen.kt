@@ -18,54 +18,56 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.lucascosta.receitasdabebel.ui.components.ModernCard
+import com.lucascosta.receitasdabebel.ui.components.ResponsiveContent
 
 @Composable
 fun OnboardingScreen(
     onEnter: () -> Unit,
     modifier: Modifier = Modifier
 ) {
-    Column(
-        modifier = modifier
-            .fillMaxSize()
-            .background(MaterialTheme.colorScheme.background)
-            .padding(24.dp),
-        horizontalAlignment = Alignment.CenterHorizontally,
-        verticalArrangement = Arrangement.Center
-    ) {
-        ModernCard(modifier = Modifier.fillMaxWidth()) {
-            Column(
-                modifier = Modifier.padding(28.dp),
-                horizontalAlignment = Alignment.CenterHorizontally,
-                verticalArrangement = Arrangement.spacedBy(18.dp)
-            ) {
-                Box(
-                    modifier = Modifier
-                        .clip(CircleShape)
-                        .background(MaterialTheme.colorScheme.tertiary)
-                        .padding(34.dp),
-                    contentAlignment = Alignment.Center
+    ResponsiveContent(modifier = modifier) {
+        Column(
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(24.dp),
+            horizontalAlignment = Alignment.CenterHorizontally,
+            verticalArrangement = Arrangement.Center
+        ) {
+            ModernCard(modifier = Modifier.fillMaxWidth()) {
+                Column(
+                    modifier = Modifier.padding(28.dp),
+                    horizontalAlignment = Alignment.CenterHorizontally,
+                    verticalArrangement = Arrangement.spacedBy(18.dp)
                 ) {
+                    Box(
+                        modifier = Modifier
+                            .clip(CircleShape)
+                            .background(MaterialTheme.colorScheme.tertiary)
+                            .padding(34.dp),
+                        contentAlignment = Alignment.Center
+                    ) {
+                        Text(
+                            text = "MR",
+                            style = MaterialTheme.typography.headlineLarge
+                        )
+                    }
                     Text(
-                        text = "MR",
-                        style = MaterialTheme.typography.headlineLarge
+                        text = "Minhas Receitas",
+                        style = MaterialTheme.typography.headlineLarge,
+                        textAlign = TextAlign.Center
                     )
-                }
-                Text(
-                    text = "Minhas Receitas",
-                    style = MaterialTheme.typography.headlineLarge,
-                    textAlign = TextAlign.Center
-                )
-                Text(
-                    text = "Guarde suas receitas favoritas em um so lugar.",
-                    style = MaterialTheme.typography.bodyLarge,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant,
-                    textAlign = TextAlign.Center
-                )
-                Button(
-                    onClick = onEnter,
-                    modifier = Modifier.fillMaxWidth()
-                ) {
-                    Text("Entrar")
+                    Text(
+                        text = "Guarde suas receitas favoritas em um so lugar.",
+                        style = MaterialTheme.typography.bodyLarge,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        textAlign = TextAlign.Center
+                    )
+                    Button(
+                        onClick = onEnter,
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        Text("Entrar")
+                    }
                 }
             }
         }

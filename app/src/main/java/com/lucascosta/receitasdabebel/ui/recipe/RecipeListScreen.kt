@@ -2,6 +2,7 @@ package com.lucascosta.receitasdabebel.ui.recipe
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.BoxWithConstraints
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
@@ -31,6 +32,7 @@ import com.lucascosta.receitasdabebel.ui.components.EmptyState
 import com.lucascosta.receitasdabebel.ui.components.MetadataPill
 import com.lucascosta.receitasdabebel.ui.components.ModernCard
 import com.lucascosta.receitasdabebel.ui.components.RecipeThumbnail
+import com.lucascosta.receitasdabebel.ui.components.ResponsiveContent
 import com.lucascosta.receitasdabebel.ui.components.ScreenTopBar
 
 @Composable
@@ -48,64 +50,65 @@ fun RecipeListScreen(
     val visibleRecipes = uiState.recipes.filterByCategory(selectedCategoryId)
     val selectedCategoryName = categoryItems.firstOrNull { it.id == selectedCategoryId }?.name
 
-    Column(
-        modifier = modifier
-            .fillMaxSize()
-            .background(MaterialTheme.colorScheme.background)
-            .padding(horizontal = 20.dp),
-        verticalArrangement = Arrangement.spacedBy(14.dp)
-    ) {
-        ScreenTopBar(
-            title = "Buscar receitas",
-            subtitle = if (selectedCategoryName == null) {
-                "${visibleRecipes.size} receita(s) encontrada(s)"
-            } else {
-                "${visibleRecipes.size} receita(s) em $selectedCategoryName"
-            },
-            action = {
-                OutlinedButton(onClick = onBack) {
-                    Text("Inicio")
-                }
-            },
+    ResponsiveContent(modifier = modifier) {
+        Column(
             modifier = Modifier
-                .fillMaxWidth()
-                .padding(top = 22.dp)
-        )
-        ModernCard(modifier = Modifier.fillMaxWidth()) {
-            Column(
-                modifier = Modifier.padding(14.dp),
-                verticalArrangement = Arrangement.spacedBy(10.dp)
-            ) {
-                OutlinedTextField(
-                    value = uiState.searchQuery,
-                    onValueChange = onSearchChange,
-                    label = { Text("Buscar receitas") },
-                    singleLine = true,
-                    modifier = Modifier.fillMaxWidth()
-                )
-                Button(
-                    onClick = onCreateRecipe,
-                    modifier = Modifier.fillMaxWidth()
+                .fillMaxSize()
+                .padding(horizontal = 20.dp),
+            verticalArrangement = Arrangement.spacedBy(14.dp)
+        ) {
+            ScreenTopBar(
+                title = "Buscar receitas",
+                subtitle = if (selectedCategoryName == null) {
+                    "${visibleRecipes.size} receita(s) encontrada(s)"
+                } else {
+                    "${visibleRecipes.size} receita(s) em $selectedCategoryName"
+                },
+                action = {
+                    OutlinedButton(onClick = onBack) {
+                        Text("Inicio")
+                    }
+                },
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(top = 22.dp)
+            )
+            ModernCard(modifier = Modifier.fillMaxWidth()) {
+                Column(
+                    modifier = Modifier.padding(14.dp),
+                    verticalArrangement = Arrangement.spacedBy(10.dp)
                 ) {
-                    Text("Nova receita")
+                    OutlinedTextField(
+                        value = uiState.searchQuery,
+                        onValueChange = onSearchChange,
+                        label = { Text("Buscar receitas") },
+                        singleLine = true,
+                        modifier = Modifier.fillMaxWidth()
+                    )
+                    Button(
+                        onClick = onCreateRecipe,
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        Text("Nova receita")
+                    }
                 }
             }
+            CategoryNavigator(
+                items = categoryItems,
+                selectedCategoryId = selectedCategoryId,
+                totalRecipes = uiState.recipes.size,
+                onSelectCategory = { selectedCategoryId = it },
+                modifier = Modifier.fillMaxWidth()
+            )
+            RecipeCards(
+                recipes = visibleRecipes,
+                categories = uiState.categories,
+                emptyText = "Nenhuma receita encontrada.",
+                onOpenRecipe = onOpenRecipe,
+                onToggleFavorite = onToggleFavorite,
+                modifier = Modifier.weight(1f)
+            )
         }
-        CategoryNavigator(
-            items = categoryItems,
-            selectedCategoryId = selectedCategoryId,
-            totalRecipes = uiState.recipes.size,
-            onSelectCategory = { selectedCategoryId = it },
-            modifier = Modifier.fillMaxWidth()
-        )
-        RecipeCards(
-            recipes = visibleRecipes,
-            categories = uiState.categories,
-            emptyText = "Nenhuma receita encontrada.",
-            onOpenRecipe = onOpenRecipe,
-            onToggleFavorite = onToggleFavorite,
-            modifier = Modifier.weight(1f)
-        )
     }
 }
 
@@ -121,40 +124,41 @@ fun FavoritesScreen(
     val categoryItems = uiState.favoriteRecipes.categoryFilterItems(uiState.categories)
     val visibleRecipes = uiState.favoriteRecipes.filterByCategory(selectedCategoryId)
 
-    Column(
-        modifier = modifier
-            .fillMaxSize()
-            .background(MaterialTheme.colorScheme.background)
-            .padding(horizontal = 20.dp),
-        verticalArrangement = Arrangement.spacedBy(14.dp)
-    ) {
-        ScreenTopBar(
-            title = "Favoritos",
-            subtitle = "Receitas queridas para acessar rapido",
-            action = {
-                OutlinedButton(onClick = onBack) {
-                    Text("Inicio")
-                }
-            },
+    ResponsiveContent(modifier = modifier) {
+        Column(
             modifier = Modifier
-                .fillMaxWidth()
-                .padding(top = 22.dp)
-        )
-        CategoryNavigator(
-            items = categoryItems,
-            selectedCategoryId = selectedCategoryId,
-            totalRecipes = uiState.favoriteRecipes.size,
-            onSelectCategory = { selectedCategoryId = it },
-            modifier = Modifier.fillMaxWidth()
-        )
-        RecipeCards(
-            recipes = visibleRecipes,
-            categories = uiState.categories,
-            emptyText = "Nenhuma receita favorita ainda.",
-            onOpenRecipe = onOpenRecipe,
-            onToggleFavorite = onToggleFavorite,
-            modifier = Modifier.weight(1f)
-        )
+                .fillMaxSize()
+                .padding(horizontal = 20.dp),
+            verticalArrangement = Arrangement.spacedBy(14.dp)
+        ) {
+            ScreenTopBar(
+                title = "Favoritos",
+                subtitle = "Receitas queridas para acessar rapido",
+                action = {
+                    OutlinedButton(onClick = onBack) {
+                        Text("Inicio")
+                    }
+                },
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(top = 22.dp)
+            )
+            CategoryNavigator(
+                items = categoryItems,
+                selectedCategoryId = selectedCategoryId,
+                totalRecipes = uiState.favoriteRecipes.size,
+                onSelectCategory = { selectedCategoryId = it },
+                modifier = Modifier.fillMaxWidth()
+            )
+            RecipeCards(
+                recipes = visibleRecipes,
+                categories = uiState.categories,
+                emptyText = "Nenhuma receita favorita ainda.",
+                onOpenRecipe = onOpenRecipe,
+                onToggleFavorite = onToggleFavorite,
+                modifier = Modifier.weight(1f)
+            )
+        }
     }
 }
 
@@ -311,15 +315,34 @@ private fun RecipeCard(
                         modifier = Modifier.padding(vertical = 2.dp)
                     )
                 }
-                Row {
-                    Button(onClick = { onOpenRecipe(recipe) }) {
-                        Text("Abrir")
-                    }
-                    Spacer(modifier = Modifier.width(8.dp))
-                    OutlinedButton(
-                        onClick = { onToggleFavorite(recipe, !recipe.isFavorite) }
-                    ) {
-                        Text(if (recipe.isFavorite) "Remover" else "Favoritar")
+                BoxWithConstraints(modifier = Modifier.fillMaxWidth()) {
+                    if (maxWidth < 260.dp) {
+                        Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                            Button(
+                                onClick = { onOpenRecipe(recipe) },
+                                modifier = Modifier.fillMaxWidth()
+                            ) {
+                                Text("Abrir")
+                            }
+                            OutlinedButton(
+                                onClick = { onToggleFavorite(recipe, !recipe.isFavorite) },
+                                modifier = Modifier.fillMaxWidth()
+                            ) {
+                                Text(if (recipe.isFavorite) "Remover" else "Favoritar")
+                            }
+                        }
+                    } else {
+                        Row {
+                            Button(onClick = { onOpenRecipe(recipe) }) {
+                                Text("Abrir")
+                            }
+                            Spacer(modifier = Modifier.width(8.dp))
+                            OutlinedButton(
+                                onClick = { onToggleFavorite(recipe, !recipe.isFavorite) }
+                            ) {
+                                Text(if (recipe.isFavorite) "Remover" else "Favoritar")
+                            }
+                        }
                     }
                 }
             }

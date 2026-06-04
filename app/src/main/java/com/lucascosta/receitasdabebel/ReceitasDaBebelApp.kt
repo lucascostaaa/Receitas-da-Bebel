@@ -15,6 +15,7 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.lucascosta.receitasdabebel.data.local.entity.RecipeEntity
 import com.lucascosta.receitasdabebel.navigation.AppScreen
@@ -228,6 +229,9 @@ private fun RowScope.AppBottomItem(
     ) {
         Text(
             text = label,
+            maxLines = 1,
+            overflow = TextOverflow.Ellipsis,
+            style = MaterialTheme.typography.labelSmall,
             color = if (selected) {
                 MaterialTheme.colorScheme.primary
             } else {
